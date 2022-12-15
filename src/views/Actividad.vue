@@ -1,23 +1,23 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
+  BannerInterno(icono="fas fa-puzzle-piece" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/opcion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. Quisque magna est, luctus vitae elit ut, convallis venenatis justo. Nunc pretium elit a nisi tempus sagittis.
+          h2 Recolección de los requisitos del <em>software</em>
+        p.mb-4 Mediante preguntas de selección múltiple el aprendiz podrá identificar cuáles conceptos debe reforzar. En caso de seleccionar una respuesta equivocada, es importante que el mismo estudiante repase los conceptos y escriba una breve explicación, de tal manera que comprenda la razón de su respuesta inicial y realice el correctivo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Selección múltiple
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
