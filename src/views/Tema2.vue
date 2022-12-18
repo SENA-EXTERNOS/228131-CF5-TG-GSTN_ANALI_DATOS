@@ -5,7 +5,9 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Herramientas y técnicas para recolección de requisitos 
+      h1 Herramientas y técnicas para recolección de requisitos
+
+    
 
     separador 
 

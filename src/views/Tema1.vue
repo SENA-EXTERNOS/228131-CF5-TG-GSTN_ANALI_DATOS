@@ -765,39 +765,153 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure(data-aos="zoom-in")
-          img(src="@/assets/curso/temas/tema1/img-76.svg").img400.m-auto
+          img(src="@/assets/curso/temas/tema1/img-76.png").img400.m-auto
       .col-lg-8
         SlyderF.custom.mb-5.p-5(columnas="col-lg-6 col-xl-6")
-          .tarjeta.tarjeta--slyder.p-3
-            .row.justify-content-center.mb-3
+          .tarjeta.tarjeta--slyder.p-4
+            .row.justify-content-center.mb-4
               .col-8
                 img(src="@/assets/curso/temas/tema1/img-77.svg").img-100    
-            h5.text-center.mb-3 Entorno del sistema y nombre del diagrama.
-          .tarjeta.tarjeta--slyder.p-3
+            h5.text-center.mb-4 Entorno del sistema y nombre del diagrama.
+
+          .tarjeta.tarjeta--slyder.p-4
+            .row.justify-content-center.mb-4
+              .col-8
+                img(src="@/assets/curso/temas/tema1/img-78.svg").img-100 
+            h5.text-center.mb-4 Casos de uso, el conjunto de requisitos funcionales.
+
+          .tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src="@/assets/curso/temas/tema1/img-78.svg").img-100    
-            h5.text-center.mb-3 Casos de uso, el conjunto de requisitos funcionales.
-          .tarjeta.tarjeta--slyder.p-3
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src="@/assets/curso/temas/tema1/img-79.svg").img-100    
+                img(src="@/assets/curso/temas/tema1/img-79.svg").img-100 
             h5.text-center.mb-3 Actor o actores externos al sistema y que interactúan con este.
+
           .tarjeta.tarjeta--slyder.p-3
             .row.justify-content-center.mb-3
               .col-8
-                img(src="@/assets/curso/temas/tema1/img-80.svg").img-100    
-            h5.text-center.mb-3 Líneas de comunicación entre los elementos y que expresan una relación de inclusión, extensión y herencia.
-          .tarjeta.tarjeta--slyder.p-3
-            .row.justify-content-center.mb-3
+                img(src="@/assets/curso/temas/tema1/img-80.svg").img-100  
+            h5.text-center.mb-2 Líneas de comunicación entre los elementos y que expresan una relación de inclusión, extensión y herencia.
+          .tarjeta.tarjeta--slyder.p-4
+            .row.justify-content-center.mb-4
               .col-8
-                img(src="@/assets/curso/temas/tema1/img-81.svg").img-100    
+                img(src="@/assets/curso/temas/tema1/img-81.svg").img-100  
             h5.text-center.mb-3 La relación entre los varios actores solo es de herencia.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido.pb-0
+          p.mb-0.text-small <b>Figura 7.</b> Ejemplo de diagrama de caso de uso
+        figure
+          img.mb-2(src='@/assets/curso/temas/tema1/img-82.svg')
+          figcaption.color-caption-1 Nota. Reproducida de Casos de uso y diagramas de casos de uso. Universitat Politècnica de València-UPV (2021).
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        p En la figura anterior se ven los elementos del diagrama: el rectángulo que representa el sistema y dentro de este los casos de uso que indican sus funciones; las figuras representan los actores externos al sistema. Las relaciones entre actor y caso de uso se dibujan con una línea simple. Las flechas etiquetadas representan las relaciones entre los casos de uso. La relación "incluir" indica que un caso de uso es necesitado por otro para poder cumplir una tarea y que el primero puede realizar todos los eventos del caso incluido. La relación "extender" indica opciones que pueden o no ejecutarse para cierto caso de uso.
+
+        p Por ejemplo, solo el ACTOR 1 (Socio) puede ejecutar todos los casos de uso, el ACTOR 2 (Cliente) no puede ejecutar el caso de uso REPETIR ÚLTIMA COMPRA. El caso PAGO CON TARJETA DEBITO siempre incluye el caso IDENTIFICAR LA TARJETA, pero el caso OFRECER AYUDA es una alternativa, finalmente IDENTIFICAR LA TARJETA se puede hacer con IDENTIFICAR CON PIN o IDENTIFICAR POR CONTACTO que involucra el actor LECTOR NFC.
+      
+        .cajon.p-4.mb-4.color-cajon-1.mb-5
+          p Los diagramas sirven para identificar actores externos y delimitar el sistema, indicando las relaciones y complementándose con las plantillas que describen cada uno de los casos de uso ilustrados.
+
+      .col-lg-4
+        figure
+          img.mb-5(src='@/assets/curso/temas/tema1/img-83.svg')
+
+    p.mb-5 <b>Para afianzar el aprendizaje del lenguaje UML se invita a ver el siguiente video</b>
+    
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    p.mb-5 <b>Mapas de procesos y diagramas de flujo</b>  
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-3
+        figure
+          img(src='@/assets/curso/temas/tema1/img-84.svg') 
+      .col-lg-7
+        .cajon-b.color-primario.p-3.mb-5.color-pos-2
+          p.mb-0 Los mapas de procesos se muestran visualmente mediante pasos y decisiones, también se conocen como diagramas de flujo que indican el sentido de las tareas, las decisiones que deben tomarse y las relaciones fundamentales entre los pasos. Ayuda a organizar los procesos y los hace entendibles. 
+
+          p El uso de mapas de procesos mejora la comunicación y documentación, ayudando al equipo de trabajo a identificar cuellos de botella, repeticiones y demoras.
+
+          p La figura muestra los elementos del diagrama de flujo que incluyen acciones, pasos de actividades, puntos de decisión, funciones, entradas o salidas, personas involucradas, cuantificación del proceso y tiempo necesario. Cada elemento se representa con un símbolo específico, como una flecha, un círculo, un diamante, un recuadro, un óvalo o un rectángulo.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido.pb-0
+          p.mb-0.text-small <b>Figura 8.</b> Símbolos del diagrama de flujo (procesos)
+        figure
+          img.mb-2(src='@/assets/curso/temas/tema1/img-85.svg')
+          figcaption.color-caption-1 Nota. Adaptada de ¿Cuáles son tus necesidades de creación de mapas de procesos? Lucidchart (2021). 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-2
+        figure
+          img(src="@/assets/curso/temas/tema1/img-86.svg")
+      .col-lg-10
+        p Los mapas de procesos facilitan la comprensión de sus características, permitiendo formular preguntas importantes para mejorar y generar datos útiles para la solución de problemas. Tipos de mapas de procesos:
+
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
+      .tarjeta
+        .col-10
+          img(src='@/assets/curso/temas/tema1/img-87.svg') 
+      .tarjeta
+        .col-10
+          img(src='@/assets/curso/temas/tema1/img-88.svg')
+      .tarjeta
+        .col-10
+          img(src='@/assets/curso/temas/tema1/img-89.svg')
+      .tarjeta
+        .col-10
+          img(src='@/assets/curso/temas/tema1/img-90.svg')
+      .tarjeta
+        .col-10
+          img(src='@/assets/curso/temas/tema1/img-91.svg')
+      .tarjeta
+        .col-10
+          img(src='@/assets/curso/temas/tema1/img-92.svg')
+      .tarjeta
+        .col-10
+          img(src='@/assets/curso/temas/tema1/img-93.svg')
 
     separador 
 
     #t_1_4.titulo-segundo.color-acento-contenido.pb-2
       h3 1.4 Salidas y entregables
+
+    p.mb-5 Hasta el momento, se han definido los requerimientos para definir el software, desde la concepción del producto hasta las fases iniciales del desarrollo. El resultado de este trabajo son varios documentos, incluyendo el acuerdo comercial y las plantillas siguiendo las buenas prácticas. 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido.pb-0
+          p.mb-0.text-small <b>Figura 9.</b> Procesos de la ingeniería de requerimientos
+        figure
+          img.mb-2(src='@/assets/curso/temas/tema1/img-94.svg')
+          figcaption.color-caption-1 Nota. Adaptada de Proceso de ingeniería de requisitos. Sommerville, (2016).
+
+    p.mb-5 Al ser esta la fase inicial del proyecto, sus salidas alimentan las etapas sucesivas con varios productos:
+
+    .row.justify-content-center.mb-5
+      .col-8.col-lg-4
+        figure
+          img.my-3(src="@/assets/curso/temas/tema1/img-95.png")      
+      .col-lg-8
+        LineaTiempoD.color-secundario
+          p(numero="1" titulo="Desarrollar la visión general del sistema") <b>Requisitos generales del sistema,</b> especificar las características principales del <em>software</em> a desarrollar.<br><b>Casos de uso del sistema,</b> describir cómo utilizarán el <em>software</em> los clientes.
+
+          p(numero="2" titulo="Documentar los requisitos del sistema") ● <b>Diagramas de historia,</b> detallar cómo debe interactuar el <em>software</em> con los usuarios, para que puedan realizar sus tareas dentro del modelo de negocio.<br>● <b>Requisitos funcionales,</b> Enunciarlos para que a partir de ellos pueda implementarse una solución. Tipos:<br> - Requisitos de información, describen que deberá almacenar y gestionar el <em>software</em> para dar soporte a los procesos de negocio.<br> - Reglas de negocio, incluyen las reglas o restricciones de cumplimiento obligatorio.<br> - Requisitos de conducta, es decir, las capacidades o interacciones con el usuario.<br>● <b>Requisitos no funcionales,</b> las características de calidad del sistema.<br>● <b>Requisitos de integración,</b> establece cuáles servicios deben integrarse al <em>software</em>.<br>● <b>Restricciones técnicas,</b> limitaciones de carácter tecnológico que debe cumplir el sistema.
+
+          p(numero="3" titulo="Analizar los requisitos del sistema") ● <b>Arquitectura del sistema.</b> Son los estándares y modelos que impactan el resto del desarrollo.<br>● <b>Modelo estático.</b> Constituye el modelo del sistema a desarrollar.<br>● <b>Modelo dinámico/funcional.</b> Detecta problemas con los casos de uso y el diseño de la capa de lógica.<br>●<b>Interfaz de usuario.</b> Relevante para la validación de los requisitos con clientes y usuarios.<br>●<b> Interfaz de servicios.</b> Importante si el sistema va a tener una interfaz que puede vulnerarse.<br>●<b> Problemas en los requisitos.</b> Identificados mediante el análisis y priorización. 
+
+          p(numero="4" titulo="Verificar la calidad de los requisitos del sistema") ● <b>Problemas en los requisitos: </b>surgen al verificar la calidad de estos.
+
+          p(numero="5" titulo="Validar los requisitos del sistema") <b>Actas de reuniones,</b> recogen los resultados obtenidos en las sesiones de validación. Si hay aceptación de los interesados, se registra con actas y contratos.<br><br><b>Problemas en los requisitos.</b> identificados y validados entre los interesados.
+
+          p(numero="6" titulo="Registrar problemas en los requisitos") ● <b>Problemas en los requisitos.</b> Se anotan para aclarar su significado o suprimirlos si están duplicados.
+
+          p(numero="7" titulo="Registrar la trazabilidad de los requisitos") ● <b>Especificación de Requisitos del Sistema (ERS).</b> Elabora las matrices de trazabilidad que reflejan las dependencias entre los requisitos y elementos que la componen. Estas se registran dentro del ERS.
 
     ModalA(:abrir-modal.sync="modal1")
       .row.align-items-center
@@ -811,7 +925,6 @@
           figure
             img(src='@/assets/curso/temas/tema1/img-modal-2.svg')
 
-      
 
     
       
