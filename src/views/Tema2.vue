@@ -95,7 +95,7 @@
             p.ms-3 Las mesas de trabajo <em>(Workshops)</em> se utilizan para determinar, establecer prioridades y hacer cierre de los requisitos para el desarrollo del <em>software</em>. Se enfocan en usuarios claves y expertos seleccionados, se realizan durante un período corto, pero intensivo; se usan para generar ideas de nuevas características o productos, resolver conflictos y llegar a un consenso, o para revisar los requisitos. 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema2/img-9.svg')
+              img(src='@/assets/curso/temas/tema2/img-9.png')
 
     separador 
 
@@ -131,7 +131,7 @@
         .titulo-sexto.color-acento-contenido.pb-0
           p.mb-0.text-small <b>Figura 12.</b> Lluvia de ideas, creatividad en libertad
         figure
-          img.mb-2(src='@/assets/curso/temas/tema2/img-11.svg')
+          img.mb-2(src='@/assets/curso/temas/tema2/img-11.png')
           figcaption.color-caption-1 Nota. Reproducida de Reglas de la lluvia de ideas. Hansen (2021).
 
     .row.justify-content-center.align-items-center.mb-5
@@ -282,6 +282,57 @@
           img(src="@/assets/curso/temas/tema2/img-23.svg")
       .col-lg-10
         p Una vez clasificados, según el tipo, los requisitos se priorizan con el método MoSCoW que sirve para saber qué debe hacer primero, qué puede hacer después y qué no necesita hacer. El método corresponde a cuatro categorías:
+    .row
+      .col-lg-8.order-2.order-lg-1
+        TabsA.color-acento-botones.mb-5        
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>M de Must Have </em>")
+            p (Debe tener), requisitos indispensables, deben llevarse a cabo en primer lugar y no son negociables.
+
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>S de Should Have</em>")
+            p (Debería tener), agrupa los requisitos importantes a realizar una vez finalizada la categoría “debe tener”. Aportan valor agregado real y contribuyen a lograr los objetivos, pero pueden diferirse en el tiempo.
+
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>C de Could have</em>")
+            p (Podría tener), requisitos que sería interesante tener si es posible, cuando haya tiempo al finalizar las dos primeras categorías. Su realización no debe afectar los demás requisitos.
+
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>W de Won’t have but would like to in the future</em>")
+            p (No lo tendrá, pero de pronto en el futuro), son los requisitos secundarios que sería bueno realizar algún día, pero que por ahora se dejan de lado.
+      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")
+        figure
+          img(src="@/assets/curso/temas/tema2/img-24.svg").m-auto
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        figure
+          img(src="@/assets/curso/temas/tema2/img-25.svg").m-auto
+      .col-lg-8
+        p Las ventajas del método <em>MoSCoW</em> son:
+
+        ul.lista-ul
+          li 
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p La forma de nombrar las categorías es pertinente y facilita la priorización.
+          li 
+          li 
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p La última categoría permite anotar las demandas del cliente y registrarlas para integrarlas en versiones o desarrollos posteriores.
+          li 
+          li 
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p Priorizar, facilita dividir los recursos adecuadamente.
+          li 
+        p.mb-4 Se deben equilibrar los requisitos en las categorías para evitar que todo sea prioritario, de lo contrario, algunos importantes como mejoras y mantenimiento, terminan en las últimas categorías.
+
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-12  
+            .cajon.p-4.mb-4.color-cajon-1.mb-5
+              p Aplicando ambos modelos se tiene una herramienta que clasifica y prioriza los requerimientos, los hace entendibles para los interesados. El formato matricial permite visualizar rápidamente la relación Requisitos-Prioridad y participar eficientemente en el proceso de análisis y priorización de requisitos.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-2
+        figure
+          img(src="@/assets/curso/temas/tema2/img-23.svg")
+      .col-lg-10
+        p El modelo <em>FURPS</em> se desarrolló por primera vez en <em>Hewlett-Packard</em> y se usa para clasificar los requisitos funcionales y no-funcionales de los sistemas (Dyson, 2019). A continuación, se encuentra un ejemplo de matriz que permite dicha tarea.
 
     separador 
     #t_2_5.titulo-segundo.color-acento-contenido.pb-2
@@ -294,6 +345,9 @@
       .col-lg-7
         .cajon-b.color-cajon-25.p-3.mb-5.color-pos-4
           p.mb-0 Utilizar prototipos como técnica de validación de requisitos para mostrarle al usuario una versión aproximada del  <em>software</em>, permite que explore y participe en la validación de la apariencia, funcionalidad y hacerse una idea de cómo quedará. Pueden ser interfases de usuario mediante maquetación, las pantallas gráficas y de aplicaciones <em>web.</em>
+
+   
+
 
 
 

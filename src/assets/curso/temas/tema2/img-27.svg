@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="737.499" viewBox="0 0 1030 737.499">
+  <g id="Grupo_222384" data-name="Grupo 222384" transform="translate(-285 -11482.784)">
+    <g id="Grupo_222383" data-name="Grupo 222383">
+      <g id="Grupo_208015" data-name="Grupo 208015" transform="translate(105 -11.283)">
+        <rect id="Rectángulo_294616" data-name="Rectángulo 294616" width="1030" height="55" transform="translate(180 11494.067)" fill="#4dd0e1"/>
+        <rect id="Rectángulo_294638" data-name="Rectángulo 294638" width="1030" height="48" transform="translate(180 11597.067)" fill="#4dd0e1" opacity="0.48"/>
+        <rect id="Rectángulo_294640" data-name="Rectángulo 294640" width="1030" height="48" transform="translate(180 11549.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294643" data-name="Rectángulo 294643" width="1030" height="48" transform="translate(180 11645.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294644" data-name="Rectángulo 294644" width="1030" height="48" transform="translate(180 11762.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294646" data-name="Rectángulo 294646" width="1030" height="48" transform="translate(180 11879.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294648" data-name="Rectángulo 294648" width="1030" height="48" transform="translate(180 11996.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294650" data-name="Rectángulo 294650" width="1030" height="48" transform="translate(180 12105.454)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294639" data-name="Rectángulo 294639" width="697.742" height="48" transform="translate(512.258 11597.067)" fill="#4dd0e1" opacity="0.63"/>
+        <rect id="Rectángulo_294641" data-name="Rectángulo 294641" width="697.742" height="48" transform="translate(512.258 11549.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294642" data-name="Rectángulo 294642" width="697.742" height="48" transform="translate(512.258 11645.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294645" data-name="Rectángulo 294645" width="697.742" height="48" transform="translate(512.258 11762.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294647" data-name="Rectángulo 294647" width="697.742" height="48" transform="translate(512.258 11879.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294649" data-name="Rectángulo 294649" width="697.742" height="48" transform="translate(512.258 11996.067)" fill="#4dd0e1" opacity="0.38"/>
+        <rect id="Rectángulo_294651" data-name="Rectángulo 294651" width="697.742" height="48" transform="translate(512.258 12105.454)" fill="#4dd0e1" opacity="0.38"/>
+        <path id="Trazado_211941" data-name="Trazado 211941" d="M0,0V634" transform="translate(512.258 11597.067)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+        <path id="Trazado_211947" data-name="Trazado 211947" d="M0,0V586" transform="translate(686.693 11645.067)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+        <path id="Trazado_211948" data-name="Trazado 211948" d="M0,0V586" transform="translate(861.129 11645.067)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+        <path id="Trazado_211949" data-name="Trazado 211949" d="M0,0V586" transform="translate(1000 11645.067)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+        <text id="FURPS_-_MoSCoW_Analysis" data-name="FURPS - MoSCoW Analysis" transform="translate(571.894 11529.067)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">FURPS - MoSCoW Analysis</tspan></text>
+        <text id="FURPS_Requirements" data-name="FURPS Requirements" transform="translate(190 11628.067)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">FURPS Requirements</tspan></text>
+        <text id="MoSCoW" transform="translate(808.605 11580.067)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">MoSCoW</tspan></text>
+        <text id="M" transform="translate(598.216 11625.067)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">M</tspan></text>
+        <text id="Must" transform="translate(603 11674.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.301" y="0">Must</tspan></text>
+        <text id="Must-2" data-name="Must" transform="translate(603 11791.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.301" y="0">Must</tspan></text>
+        <text id="Must-3" data-name="Must" transform="translate(603 11908.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.301" y="0">Must</tspan></text>
+        <text id="Must-4" data-name="Must" transform="translate(603 12025.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.301" y="0">Must</tspan></text>
+        <text id="Must-5" data-name="Must" transform="translate(603 12134.454)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.301" y="0">Must</tspan></text>
+        <text id="F_Functional" data-name="F     Functional" transform="translate(202 11674.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" xml:space="preserve">F     Functional</tspan></text>
+        <text id="U_Usability" data-name="U     Usability" transform="translate(202 11791.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" xml:space="preserve">U     Usability</tspan></text>
+        <text id="R_Reliability" data-name="R     Reliability" transform="translate(202 11908.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" xml:space="preserve">R     Reliability</tspan></text>
+        <text id="P_Performance" data-name="P     Performance" transform="translate(202 12025.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" xml:space="preserve">P     Performance</tspan></text>
+        <text id="S_Supportability" data-name="S     Supportability" transform="translate(202 12134.454)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" xml:space="preserve">S     Supportability</tspan></text>
+        <text id="S" transform="translate(774.286 11625.067)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">S</tspan></text>
+        <text id="Should" transform="translate(776 11674.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.023" y="0">Should</tspan></text>
+        <text id="Should-2" data-name="Should" transform="translate(776 11791.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.023" y="0">Should</tspan></text>
+        <text id="Should-3" data-name="Should" transform="translate(776 11908.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.023" y="0">Should</tspan></text>
+        <text id="Should-4" data-name="Should" transform="translate(776 12025.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.023" y="0">Should</tspan></text>
+        <text id="Should-5" data-name="Should" transform="translate(776 12134.454)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.023" y="0">Should</tspan></text>
+        <text id="C" transform="translate(952.489 11625.067)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">C</tspan></text>
+        <text id="Could" transform="translate(931.49 11674.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-20.863" y="0">Could</tspan></text>
+        <text id="Could-2" data-name="Could" transform="translate(931.49 11791.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-20.863" y="0">Could</tspan></text>
+        <text id="Could-3" data-name="Could" transform="translate(931.49 11908.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-20.863" y="0">Could</tspan></text>
+        <text id="Could-4" data-name="Could" transform="translate(931.49 12025.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-20.863" y="0">Could</tspan></text>
+        <text id="Could-5" data-name="Could" transform="translate(931.49 12134.454)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-20.863" y="0">Could</tspan></text>
+        <text id="W" transform="translate(1105 11625.067)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">W</tspan></text>
+        <text id="Wont" transform="translate(1103 11674.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.582" y="0">Wont</tspan></text>
+        <text id="Wont-2" data-name="Wont" transform="translate(1103 11791.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.582" y="0">Wont</tspan></text>
+        <text id="Wont-3" data-name="Wont" transform="translate(1103 11908.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.582" y="0">Wont</tspan></text>
+        <text id="Wont-4" data-name="Wont" transform="translate(1103 12025.067)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.582" y="0">Wont</tspan></text>
+        <text id="Wont-5" data-name="Wont" transform="translate(1103 12134.454)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.582" y="0">Wont</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
