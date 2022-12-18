@@ -302,7 +302,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure.mb-5
           img(src="@/assets/curso/temas/tema2/img-25.svg").m-auto
       .col-lg-8
         p Las ventajas del método <em>MoSCoW</em> son:
@@ -330,9 +330,18 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
         figure
-          img(src="@/assets/curso/temas/tema2/img-23.svg")
+          img(src="@/assets/curso/temas/tema2/img-26.svg")
       .col-lg-10
         p El modelo <em>FURPS</em> se desarrolló por primera vez en <em>Hewlett-Packard</em> y se usa para clasificar los requisitos funcionales y no-funcionales de los sistemas (Dyson, 2019). A continuación, se encuentra un ejemplo de matriz que permite dicha tarea.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.pb-0
+          p.mb-0.text-small <b>Tabla 6.</b> Matriz FURPS+ & MoSCoW
+        figure
+          img.mb-2(src='@/assets/curso/temas/tema2/img-27.svg')
+          figcaption.color-caption-1 Nota. Reproducida de The FURPS y MoSCoW Model. Dyson, J. (2019). 
+    
 
     separador 
     #t_2_5.titulo-segundo.color-acento-contenido.pb-2
@@ -341,21 +350,188 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema2/img-21.svg') 
-      .col-lg-7
+          img(src='@/assets/curso/temas/tema2/img-28.svg') 
+      .col-lg-8
         .cajon-b.color-cajon-25.p-3.mb-5.color-pos-4
           p.mb-0 Utilizar prototipos como técnica de validación de requisitos para mostrarle al usuario una versión aproximada del  <em>software</em>, permite que explore y participe en la validación de la apariencia, funcionalidad y hacerse una idea de cómo quedará. Pueden ser interfases de usuario mediante maquetación, las pantallas gráficas y de aplicaciones <em>web.</em>
 
-   
+    .tarjeta.color-slider.p-4.mb-5
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            p.ms-3 El prototipo permite a los usuarios ganar experiencia y a los diseñadores recibir su retroalimentación para cumplir los requisitos y presentar una próxima versión.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img-29.png')
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            p.ms-3 Los prototipos se usan en conjunción con otras técnicas como entrevistas y diseño conjunto de aplicaciones <em>(JAD)</em>. Se desarrollan utilizando requisitos preliminares o ejemplos de sistemas similares.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img-30.png')
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            p.ms-3Hay varios métodos para crear prototipos de sistemas como guiones gráficos <em>(storyboards)</em> y ejecutables minimalistas. La ventaja de usar prototipos es la expectativa y ánimo que generan en los usuarios, al ser parte activa en el desarrollo de los requisitos.	 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img-31.png')
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            p.ms-3Una desventaja es que los usuarios se apegan a ellos y, por lo tanto, se resisten a soluciones alternativas. La validación de prototipos en etapas tempranas del ciclo de vida del desarrollo del <em>software</em> minimiza los riesgos de modificación luego de la etapa de construcción.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img-32.png')
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-2
+        figure
+          img(src="@/assets/curso/temas/tema2/img-33.png")
+      .col-lg-10
+        p Los prototipos son más que herramientas para ayudar a los desarrolladores a probar sus aplicaciones móviles o sitios web, son claves en el proceso de diseño centrado en el usuario. En la siguiente figura se muestra cómo hacer un prototipo.
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido.pb-0
+          p.mb-0.text-small <b>Figura 14.</b> Prototipo de aplicación móvil utilizando software para maquetación
+        figure
+          img.mb-2(src='@/assets/curso/temas/tema2/img-34.png')
+          figcaption.color-caption-1 Nota. Reproducida de ¿cómo hacer un prototipo? Ronam, S. (2021).
 
+    p.mb-5 <b>Los pasos para desarrollar un prototipo son:</b>
+
+    PasosA.color-acento-botones.mb-5(tipo="n")
+      .row.justify-content-center.align-items-center
+        .col-md-6.mb-4.mb-md-0
+          p.mt-5 Entender el problema del cliente, para eso se hace todo el proceso de requerimientos.
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema2/img-35.svg')
+
+      .row.justify-content-center.align-items-center
+        .col-md-6.mb-4.mb-md-0
+          figure
+            img(src='@/assets/curso/temas/tema2/img-36.svg')
+        .col-md-6
+          p Definir la solución en el documento de especificación de requerimientos (ERS) para que el equipo de trabajo defina detalles y restricciones técnicas antes de comenzar a codificar.
+
+      .row.justify-content-center.align-items-center
+        .col-md-6.mb-4.mb-md-0
+          p Desarrollar el prototipo con requisitos aprobados, para hacer elecciones técnicas y comenzar el desarrollo.
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema2/img-37.svg')
+
+      .row.justify-content-center.align-items-center
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema2/img-38.svg')
+        .col-md-6.mb-4.mb-md-0
+          p Poner el prototipo en funcionamiento
+
+      .row.justify-content-center.align-items-center
+        .col-md-6.mb-4.mb-md-0
+          p Analizar la retroalimentación proveniente de los usuarios.
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema2/img-39.svg')
+
+    .tarjeta--container.row.mb-5
+
+      .col-md.tarjeta.color-secundario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema2/img-40.svg')
+
+        h2.text-center.mb-5 Ventajas del uso de prototipos
+        ul.lista-ul
+          li.mb-0 
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p.mb-0 Minimiza riesgos al construir software que no satisfaga la necesidad del usuario.
+          li 
+          li.mb-0 
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p.mb-0 Reduce el costo de iteración e incrementa la probabilidad de éxito del proyecto.
+          li 
+          li.mb-0 
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p.mb-0 Prevé el uso de herramientas para el desarrollo de software.
+          li 
+          li.mb-0 
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p.mb-0 Permite identificar funcionalidades no contempladas, para su inclusión en el análisis.
+          li 
+          li.mb-0 
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p.mb-0 Reduce el costo de iteración e incrementa la probabilidad de éxito del proyecto.
+          li 
+          li
+            <i class="fas fa-angle-right" aria-hidden="true"></i>
+            p Provee un mecanismo de consenso de las interfaces de la aplicación. 
+          li 
+
+      .col-md.tarjeta.color-primario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure.mb-4
+              img(src='@/assets/curso/temas/tema2/img-41.svg')
+          h2.text-center.mb-5 Desventajas del uso de prototipos
+          ul.lista-ul
+            li.mb-0
+              <i class="fas fa-angle-right" aria-hidden="true"></i>
+              p.mb-0 El proceso de elaboración puede tomar mucho tiempo si el usuario final no tiene claro lo que desea o no decide rápidamente la validación.
+            li
+            li.mb-0 
+              <i class="fas fa-angle-right" aria-hidden="true"></i>
+              p.mb-0 Al recibir el prototipo puede pensar que la aplicación está terminada y no destina tiempo para mejorarla.
+            li 
+            li 
+              <i class="fas fa-angle-right" aria-hidden="true"></i>
+              p Durante la etapa de desarrollo el programador puede alterar el prototipo y generar una iteración que requiera nuevamente la validación del usuario y, en consecuencia, incrementar costo y tiempo.
+            li 
 
     separador 
 
     #t_2_6.titulo-segundo.color-acento-contenido.pb-2
       h3 2.6  Generación de documentación 
 
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+        .bloque-texto-a.color-secundario.p-md-3.mb-5.cuadro-izq.posicion-texto
+          .row.m-0.align-items-center.justify-content-between.bloque-texto-a.texto-2
+            .col-lg-4.mb-1.mb-lg-0
+              figure.posicion_imagen_4
+                img(src='@/assets/curso/temas/tema2/img-42.svg')
+            .col-lg-8
+              .bloque-texto-a__texto.p-4
+                p Otra técnica es el Diseño Conjunto de Aplicaciones (JAD) como alternativa a las entrevistas individuales. Ayuda a los clientes y usuarios a formular problemas y a explorar soluciones, involucrándolos dentro del desarrollo, mediante talleres colaborativos.
+
+
+    p.mb-5 <b>El documento de especificación de requisitos contiene la descripción de requerimientos funcionales y no-funcionales como:</b>
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        figure
+          img(src='@/assets/curso/temas/tema2/img-43.svg')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            p.mb-3.text-small <b>Figura 15.</b> Características de las herramientas para documentación de requisitos
+            figure
+              img.mb-3(src='@/assets/curso/temas/tema2/img-44.png')
+              figcaption.color-caption-1 Nota. Adaptada de Las mejores herramientas de gestión de requisitos en 2022.  Aston, B. (2021). 
+          .tarjeta.color-modal.p-3(x="10%" y="33%" numero="")
+            p Flujos interactivos y simulaciones. <br>Dashboards y storyboards.<br>Funciones para modelos gráficos (UML).
+          .tarjeta.color-modal.p-3(x="30%" y="60%" numero="")
+            p Encontrar relaciones entre requisitos.<br>Análisis de impacto en tiempo real.<br>Ejecutar casos de prueba.
+          .tarjeta.color-modal.p-3(x="49.5%" y="33.7%" numero="")
+            p Permitir, revisar y aprobar firmas electrónicas.<br>Recoger información a través de comentarios y mensajes.<br>Notificar la actividad de los usuarios.
+          .tarjeta.color-modal.p-3(x="70%" y="60%" numero="")
+            p Definir los requerimientos.<br>Modelar las relaciones entre requisitos.<br>Reutilizar requerimientos.<br>RImportar/exportar datos para documentación.
+          .tarjeta.color-modal.p-3(x="90%" y="37.5%" numero="")
+            p IDE de desarrollo.<br>Procesador de texto.<br>Hoja de cálculo.
 </template>
 
 <script>
