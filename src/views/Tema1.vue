@@ -158,7 +158,7 @@
     PasosB.color-acento-botones.color-fondo-puntos.p-3.mb-5
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Concepción</b>
+          p.ms-5 <b>Concepción:</b>
 
           p.ms-5 El proyecto comienza cuando se identifica una necesidad del negocio o se descubre un mercado o servicio potencial. En esta fase se hace el entendimiento básico del problema, se identifican los usuarios finales y lo que quieren o necesitan, es decir, la naturaleza de la solución.
 
@@ -169,7 +169,7 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Indagación u obtención</b>
+          p.ms-5 <b>Indagación u obtención:</b>
 
           p.ms-5 Consiste en preguntarle al cliente, a los usuarios y a los demás interesados cuáles son los objetivos para el sistema, qué se va a lograr, cómo se ajusta a las necesidades del negocio y, finalmente, cómo va a usarse en la operación diaria. La parte más importante de la indagación es entender los objetivos del negocio, estos pueden ser funcionales o no-funcionales.
           .row.ms-5
@@ -186,7 +186,7 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Elaboración</b>
+          p.ms-5 <b>Elaboración:</b>
           
           p.ms-5 Consiste en desarrollar, expandir y refinar la información obtenida del cliente durante la concepción e indagación. Debe identificar aspectos funcionales, del comportamiento e información del <em>software</em>. La elaboración toma los escenarios de usuario y los refina. Cada escenario o caso describe cómo el usuario va a interactuar con el sistema y se analiza para extraer las clases o entidades de negocio visibles al usuario. Se definen los atributos de cada clase analizada y los servicios que requiere cada una.
 
@@ -196,7 +196,7 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Negociación</b>
+          p.ms-5 <b>Negociación:</b>
 
           p.ms-5 Es usual que clientes y usuarios pidan más de lo que puede lograrse con la limitación de recursos del negocio. También es común que distintos clientes o usuarios propongan requerimientos conflictivos con el argumento de que su versión es <b>“esencial para nuestras necesidades”.</b>
 
@@ -208,7 +208,7 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Especificación</b>
+          p.ms-5 <b>Especificación:</b>
 
           p.ms-5 Puede ser un documento, varios modelos gráficos, un modelo matemático, un conjunto de casos de uso, un prototipo o cualquier combinación de éstos. Puede usarse una plantilla estándar, lo que lleva a presentar los requerimientos en forma consistente y comprensible. Pero en ocasiones es necesario ser flexible cuando se desarrolla una especificación. Para sistemas grandes conviene realizar un documento escrito que combine descripciones en un lenguaje natural con modelos gráficos, pero para sistemas pequeños quizá todo lo que se requiera sean casos de uso.
 
@@ -218,7 +218,7 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Validación</b>          
+          p.ms-5 <b>Validación:</b>          
 
           p.ms-5 Consiste en evaluar la calidad del resultado generado desde la ingeniería de requerimientos analizando las especificaciones para garantizar que todos han sido enunciados sin ambigüedades; que se detectaron y corrigieron las inconsistencias, omisiones y errores, y que el resultado del trabajo se presenta conforme a los estándares establecidos para el proceso, el proyecto y el producto. 
 
@@ -251,7 +251,7 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Administración</b>
+          p.ms-5 <b>Administración:</b>
 
           p.ms-5 Todos los requerimientos de <em>software</em> cambian, y el deseo o necesidad de modificarlos continúa durante el ciclo de vida del sistema. La administración es un conjunto de actividades que ayudan al equipo del proyecto a identificar, controlar hacer seguimiento y modificaciones en cualquier momento del desarrollo del proyecto.
 
@@ -300,7 +300,7 @@
           p.mb-0.text-small <b>Figura 3.</b> Proceso de análisis y recopilación de requisitos
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-21.svg')
-          figcaption.color-caption-1 Nota: Adaptada de Análisis de los <em>stakeholders.</em> Grandes Pymes (2021). 
+          figcaption.color-caption-1 Nota: Adaptada de Análisis de los <em>stakeholders.</em> ,<a href="https://www.grandespymes.com.ar/2021/04/10/analisis-de-los-stakeholders/">Grandes Pymes (2021).https://www.grandespymes.com.ar/2021/04/10/analisis-de-los-stakeholders/</a>  
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -487,6 +487,8 @@
 
             .cajon.p-4.mb-4.color-cajon-1.mb-5
               p Para afianzar el conocimiento, se recomienda ver las plantillas normalizadas para uso en la recogida y análisis de requisitos.
+
+    p.mb-5 Las técnicas de interacción con los patrocinadores y clientes son individuales o grupales, se reúnen los usuarios para preguntarles qué es lo que quieren o buscan de la aplicación, procesos del negocio o necesidades de la organización.
 
     TabsB.color-primario.mb-5
       .py-4.py-md-5(titulo="Entrevista" :icono="require('@/assets/curso/temas/tema1/img-42.svg')")
@@ -822,7 +824,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/hlK2aN6Osjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 <b>Mapas de procesos y diagramas de flujo</b>  
 

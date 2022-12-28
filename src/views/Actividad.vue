@@ -19,7 +19,7 @@
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
-                i.fas.fa-puzzle-piece
+                i.fas.fa-puzzle-piece 
                 
 </template>
 

@@ -111,19 +111,19 @@
         ul.lista-ul.ms-5.color-icono
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p Preparación
+            p <b>Preparación</b>
           li 
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p Generación
+            p <b>Generación</b>
           li 
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p Consolidación (revisar, descartar y priorizar ideas)
+            p <b>Consolidación (revisar, descartar y priorizar ideas)</b>
           li 
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p Documentación
+            p <b>Documentación</b>
           li 
 
     .row.justify-content-center.align-items-center.mb-5
