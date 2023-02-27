@@ -17,25 +17,26 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 10.</b> Comic sobre las reuniones para definir requerimientos
+          h5 Figura 9
+          p.mb-5
+            em Comic sobre las reuniones para definir requerimientos
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-2.svg')
-          figcaption.color-caption-1 Nota. Adaptada y traducida de Dilbert Comics (2006), de Adams, S. (29 de enero de 2006)
+          figcaption.color-caption-1 Nota. Adaptada y traducida de Dilbert Comics (2006), de Adams, S. (29 de enero de 2006). 
 
     p.mb-5 La adquisición y la comprensión de los requerimientos no es un proceso fácil, en ocasiones se presentan situaciones como las siguientes:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         figure
-          img.mb-2(src='@/assets/curso/temas/tema2/img-3.svg')
+          img.mb-2(src='@/assets/curso/temas/tema2/3.svg')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 11.</b> Entrevista, la técnica más utilizada
+
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-4.svg')
-          figcaption.color-caption-1 Nota. Adaptada de Entrevistas eficaces para el trabajo de requerimientos. Fatto consultorías y sistemas (s.f.) [Video] 
+
 
     separador 
 
@@ -57,19 +58,19 @@
             ul.lista-ul.ms-5
               li 
                 <i class="fas fa-angle-right" aria-hidden="true"></i>
-                p Estudiar el dominio del problema
+                p Estudiar el dominio del problema.
               li 
               li 
                 <i class="fas fa-angle-right" aria-hidden="true"></i>
-                p Seleccionar a las personas clave dentro de los interesados y ajustar sus agendas
+                p Seleccionar a las personas clave dentro de los interesados y ajustar sus agendas.
               li 
               li 
                 <i class="fas fa-angle-right" aria-hidden="true"></i>
-                p Delimitar el objetivo y contenido
+                p Delimitar el objetivo y contenido.
               li 
               li 
                 <i class="fas fa-angle-right" aria-hidden="true"></i>
-                p Planificar la logística
+                p Planificar la logística.
               li 
 
           .col-md-6
@@ -107,32 +108,31 @@
         figure
           img(src="@/assets/curso/temas/tema2/img-10.svg")
       .col-lg-9
-        p La lluvia de ideas es una actividad grupal de creatividad, usada para generar y recopilar ideas relacionadas con un mismo tema, en un ambiente libre de críticas o juicios. En la obtención de requisitos, se utiliza para profundizar el detalle sobre el tema. En la sesión se intercambian ideas sin orden ni filtro y luego se valoran. Sus fases son:
+        p La lluvia de ideas es una actividad grupal de creatividad, usada para generar y recopilar ideas relacionadas con un mismo tema, en un ambiente libre de críticas o juicios. En la obtención de los requisitos, se utiliza para profundizar el detalle sobre el tema. En la sesión se intercambian ideas sin orden ni filtro, y luego se valoran. Sus fases son:
         ul.lista-ul.ms-5.color-icono
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p <b>Preparación</b>
+            p <b>Preparación.</b>
           li 
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p <b>Generación</b>
+            p <b>Generación.</b>
           li 
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p <b>Consolidación (revisar, descartar y priorizar ideas)</b>
+            p <b>Consolidación (revisar, descartar y priorizar ideas).</b>
           li 
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p <b>Documentación</b>
+            p <b>Documentación.</b>
           li 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 12.</b> Lluvia de ideas, creatividad en libertad
+
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-11.png')
-          figcaption.color-caption-1 Nota. Reproducida de Reglas de la lluvia de ideas. Hansen (2021).
+
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -173,9 +173,9 @@
                 img(src='@/assets/curso/temas/tema2/img-14.svg')
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p Otra técnica es el Diseño Conjunto de Aplicaciones <em>(JAD)</em> como alternativa a las entrevistas individuales. Ayuda a los clientes y usuarios a formular problemas y a explorar soluciones, involucrándolos dentro del desarrollo, mediante talleres colaborativos.
+                p Otra técnica es el Diseño Conjunto de Aplicaciones (JAD) como alternativa a las entrevistas individuales. Ayuda a los clientes y usuarios a formular problemas y a explorar soluciones, involucrándolos dentro del desarrollo, mediante talleres colaborativos.
 
-    p.mb-5 El <em>JAD</em> lleva a menores tiempos de desarrollo y mayor satisfacción del cliente involucrado durante todo el proceso. Tiene cuatro principios: dinámicas grupales, comunicación visual (diagramas, transparencias, multimedia, herramientas CASE), un proceso organizado y racional y la documentación tipo WYSIWYG <em>(what you see is what you get, lo que se ve es lo que se obtiene).</em> Durante las sesiones se trabajan los documentos a manera de diseño en fases.
+    p.mb-5 El JAD lleva a menores tiempos de desarrollo y mayor satisfacción del cliente involucrado durante todo el proceso. Consta de cuatro principios: dinámicas grupales, comunicación visual (diagramas, transparencias, multimedia, herramientas CASE), un proceso organizado y racional y la documentación tipo WYSIWYG, lo que se ve es lo que se obtiene <em>(what you see is what you get)</em>. Durante las sesiones, se trabajan los documentos a manera de diseño en fases. Veamos más a profundidad:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -222,7 +222,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10   
         .cajon.p-4.mb-4.color-cajon-1.mb-5
-          p En Tabla 4 se muestran ambos tipos de preguntas. En las cerradas se asignan puntajes para que cada usuario escoja, lo que permite que sean analizadas cuantitativamente. En las respuestas abiertas, el usuario puede responder en cada caso lo que considere desde su perspectiva.
+          p En la siguiente tabla, se muestran ambos tipos de preguntas. En las cerradas se asignan puntajes para que cada usuario escoja, lo que permite que sean analizadas cuantitativamente, mientras que en las respuestas abiertas, el usuario puede responder en cada caso lo que considere, desde su perspectiva.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -230,7 +230,7 @@
           p.mb-0.text-small <b>Tabla 4.</b> Tipos de pregunta en los cuestionarios
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-17.svg')
-          figcaption.color-caption-1 Nota. Adaptada de Análisis y requerimientos de <em>software</em>: Manual autoformativo interactivo. Wong, S. (2017).
+          figcaption.color-caption-1 Nota. Adaptada de Wong, S. (2017). 
 
 
 
@@ -247,15 +247,17 @@
         .cajon-b.color-cajon-25.p-3.mb-5.color-pos-3
           p.mb-0 El análisis de requerimientos ejecuta las tareas que determinan las necesidades o condiciones que debe cumplir el <em>software</em>, ya sea un nuevo diseño o una versión de algo existente, teniendo en cuenta los conflictos entre requisitos de los diferentes roles. Analizar, documentar, validar y administrar los requisitos se hace en la fase de análisis.
 
-          p El análisis consiste en determinar si el requerimiento obtenido es claro, completo, conciso, no está duplicado, es válido, consistente y sin ambigüedades, resuelve conflictos y añade valor al proyecto. El proceso ha identificado las necesidades de los interesados, las implicaciones del <em>software</em>, representado los casos e historias de usuario, observado el sitio de trabajo y generado una cantidad de requisitos,
+          p El análisis consiste en determinar si el requerimiento obtenido es claro, completo, conciso, no está duplicado, es válido, consistente y sin ambigüedades, resuelve conflictos y añade valor al proyecto. El proceso ha identificado las necesidades de los interesados, las implicaciones del <em>software</em>, representado los casos e historias de usuario, observado el sitio de trabajo y generado una cantidad de requisitos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 13.</b> Esquema del modelo FURPS+
+          h5 Figura 10 
+          p.mb-0
+            em Esquema del modelo FURPS+
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-19.svg')
-          figcaption.color-caption-1 Nota. Adaptada de FURPS+.QualidadeBR (10 de julio de 2008). 
+          figcaption.color-caption-1 Nota. Adaptada de FURPS+ (2008).
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -266,22 +268,26 @@
                 img(src='@/assets/curso/temas/tema2/img-20.svg')
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p Para clasificar los requerimientos se usa la técnica FURPS+, <em>(Functionability, Usability, Reliability, Performance & Supportability):</em> funcionalidad, facilidad de uso, confiabilidad, rendimiento y facilidad de soporte. El modelo clasifica dos categorías: requisitos funcionales (F) que especifican las funciones que el <em>software</em> debe hacer y requerimientos no-funcionales (URPS), que puntualizan atributos del sistema o del medio ambiente del sistema. El símbolo (+) representa restricciones no-funcionales que deben tenerse en cuenta, como diseño, implementación, legales e interfase y los que se derivan de la norma ISO-9126 como eficiencia, mantenibilidad y portabilidad.
+                p Para clasificar los requerimientos se usa la técnica FURPS+, <em>(Functionability, Usability, Reliability, Performance & Supportability),</em> Funcionalidad, facilidad de Uso, Confiabilidad, Rendimiento y Facilidad de soporte. El modelo se clasifica dos categorías: requisitos funcionales (F) que especifican las funciones que el<em> software</em> debe realizar y requerimientos no-funcionales (URPS), que puntualizan atributos del sistema o del medio ambiente del sistema. El símbolo (+) representa restricciones no-funcionales que deben tenerse en cuenta, como diseño, implementación, legales e interfaz y los que se derivan de la norma ISO-9126 como eficiencia, mantenibilidad y portabilidad.
+
+
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Tabla 5.</b> Restricciones del modelo FURPS+
+          h5 Tabla 5
+          p.mb-0
+            em Restricciones del modelo FURPS+
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-22.svg')
-          figcaption.color-caption-1 Nota. Muestra los tipos de requerimientos del modelo de calidad de FURPS y descripción de cada uno de ellos. CVUDES (2015)
+          figcaption.color-caption-1 Nota. Tomado de CVUDES (2015).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
         figure
           img(src="@/assets/curso/temas/tema2/img-23.svg")
       .col-lg-10
-        p Una vez clasificados, según el tipo, los requisitos se priorizan con el método MoSCoW que sirve para saber qué debe hacer primero, qué puede hacer después y qué no necesita hacer. El método corresponde a cuatro categorías:
+        p Una vez clasificados, según el tipo, los requisitos se priorizan con el método MoSCoW, el cual sirve para saber qué debe hacer primero, qué puede hacer después y qué no necesita hacer. El método corresponde a cuatro categorías:
     .row
       .col-lg-8.order-2.order-lg-1
         TabsA.color-acento-botones.mb-5        
@@ -294,7 +300,7 @@
           .tarjeta.clr-paleYellow.p-4(titulo="<em>C de Could have</em>")
             p (Podría tener), requisitos que sería interesante tener si es posible, cuando haya tiempo al finalizar las dos primeras categorías. Su realización no debe afectar los demás requisitos.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="<em>W de Won’t have but would like to in the future</em>")
+          .tarjeta.clr-paleYellow.p-4(titulo="<em>W de Won’t have <br>but would like to<br> in the future</em>")
             p (No lo tendrá, pero de pronto en el futuro), son los requisitos secundarios que sería bueno realizar algún día, pero que por ahora se dejan de lado.
       .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
@@ -332,15 +338,17 @@
         figure
           img(src="@/assets/curso/temas/tema2/img-26.svg")
       .col-lg-10
-        p El modelo <em>FURPS</em> se desarrolló por primera vez en <em>Hewlett-Packard</em> y se usa para clasificar los requisitos funcionales y no-funcionales de los sistemas (Dyson, 2019). A continuación, se encuentra un ejemplo de matriz que permite dicha tarea.
+        p El modelo FURPS se desarrolló por primera vez en Hewlett-Packard y se usa para clasificar los requisitos funcionales y no-funcionales de los sistemas (Dyson, 2019). A continuación, se encuentra un ejemplo de matriz que permite entender esta tarea:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Tabla 6.</b> Matriz FURPS+ & MoSCoW
+          h5 Tabla 6
+          p.mb-0
+            em Matriz FURPS+ & MoSCoW
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-27.svg')
-          figcaption.color-caption-1 Nota. Reproducida de The FURPS y MoSCoW Model. Dyson, J. (2019). 
+          figcaption.color-caption-1 Nota. Tomada de Dyson, J. (2019). 
     
 
     separador 
@@ -353,7 +361,7 @@
           img(src='@/assets/curso/temas/tema2/img-28.svg') 
       .col-lg-8
         .cajon-b.color-cajon-25.p-3.mb-5.color-pos-4
-          p.mb-0 Utilizar prototipos como técnica de validación de requisitos para mostrarle al usuario una versión aproximada del  <em>software</em>, permite que explore y participe en la validación de la apariencia, funcionalidad y hacerse una idea de cómo quedará. Pueden ser interfases de usuario mediante maquetación, las pantallas gráficas y de aplicaciones <em>web.</em>
+          p.mb-0 Utilizar prototipos como técnica de validación de requisitos para mostrarle al usuario una versión aproximada del <i>software</i>, permite que explore y participe en la validación de la apariencia, funcionalidad y hacerse una idea de cómo quedará. Pueden ser interfaces de usuario mediante maquetación, las pantallas gráficas y de aplicaciones web. Veamos:
 
     .tarjeta.color-slider.p-4.mb-5
       SlyderA(tipo="b")
@@ -392,10 +400,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 14.</b> Prototipo de aplicación móvil utilizando software para maquetación
+          h5 Figura 11
+          p.mb-0
+            em Prototipo de aplicación móvil utilizando software para maquetación
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-34.png')
-          figcaption.color-caption-1 Nota. Reproducida de ¿cómo hacer un prototipo? Ronam, S. (2021).
+          figcaption.color-caption-1 Nota. Tomada de Ronam, S. (2021). 
 
     p.mb-5 <b>Los pasos para desarrollar un prototipo son:</b>
 
@@ -426,7 +436,7 @@
           figure
             img(src='@/assets/curso/temas/tema2/img-38.svg')
         .col-md-6.mb-4.mb-md-0
-          p Poner el prototipo en funcionamiento
+          p Poner el prototipo en funcionamiento.
 
       .row.justify-content-center.align-items-center
         .col-md-6.mb-4.mb-md-0
@@ -434,7 +444,7 @@
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema2/img-39.svg')
-
+    p.mb-5 Ahora, veamos las ventajas y las desventajas del uso de prototipos: 
     .tarjeta--container.row.mb-5
 
       .col-md.tarjeta.color-secundario.p-5
@@ -515,13 +525,17 @@
           img(src='@/assets/curso/temas/tema2/img-43.svg')
 
     .row.justify-content-center.align-items-center.mb-5
+
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 12
+        p.mb-0
+          em Características de las herramientas para documentación de requisitos    
       .col-lg-12
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
-            p.mb-3.text-small <b>Figura 15.</b> Características de las herramientas para documentación de requisitos
             figure
               img.mb-3(src='@/assets/curso/temas/tema2/img-44.png')
-              figcaption.color-caption-1 Nota. Adaptada de Las mejores herramientas de gestión de requisitos en 2022.  Aston, B. (2021). 
+              figcaption.color-caption-1 Nota. Adaptada de Aston, B. (2021). 
           .tarjeta.color-modal.p-3(x="10%" y="33%" numero="")
             p Flujos interactivos y simulaciones. <br>Dashboards y storyboards.<br>Funciones para modelos gráficos (UML).
           .tarjeta.color-modal.p-3(x="30%" y="60%" numero="")
@@ -532,6 +546,11 @@
             p Definir los requerimientos.<br>Modelar las relaciones entre requisitos.<br>Reutilizar requerimientos.<br>RImportar/exportar datos para documentación.
           .tarjeta.color-modal.p-3(x="90%" y="37.5%" numero="")
             p IDE de desarrollo.<br>Procesador de texto.<br>Hoja de cálculo.
+
+
+    p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+
+
 </template>
 
 <script>

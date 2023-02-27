@@ -12,7 +12,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
         .cajon-b.color-primario.p-3.mb-5.intro
-          p.mb-4 Estimado aprendiz, reciba una cordial bienvenida a este recurso de aprendizaje. El presente componente formativo está orientado a la recolección de requisitos de software. Se abordan como ejes temáticos, los requisitos del negocio, así como las herramientas para dicha  recolección. Asimismo, las principales actividades de la ingeniería de requerimientos, desde la toma de información al cliente, pasando por el análisis, la discusión y la validación, así como la relación que hay entre estas actividades y otros aspectos más. Al finalizar, obtendrá los conocimientos para desenvolverse en el campo de este tipo de recolección de <em>software</em>. Antes de empezar, se sugiere revisar el siguiente video para identificar el contexto de aprendizaje:
+          p.mb-4 Apreciado aprendiz, bienvenido a este componente formativo donde se abordan y aprenden temas como el de la recaudación de requisitos para el <i>software</i>, con sus ejes temáticos, formalidades para los negocios, y las herramientas necesarias para dicha recolección. También se incluyen las principales actividades de la ingeniería de requerimientos, desde la toma de información al cliente, pasando por el análisis, la discusión y la validación, así como la relación que hay entre estas actividades y otros diferentes aspectos. Al finalizar, habrá adquirido los conocimientos para desenvolverse en el campo de este tipo de recolección de <i>software</i>. 
 
           p ¡Le deseamos una experiencia de aprendizaje significativa y memorable!
 

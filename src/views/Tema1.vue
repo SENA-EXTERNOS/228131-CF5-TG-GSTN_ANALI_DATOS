@@ -5,14 +5,15 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Desarrollo de contenido Entendiendo los requisitos del negocio
+      h1 Entendiendo los requisitos del negocio
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
         figure
           img(src="@/assets/curso/temas/tema1/img-1.png")
       .col-lg-9
-        p Al iniciar, es indispensable entender los requisitos del negocio, empresa u organización, con el fin de hacer un levantamiento adecuado de los requisitos. A continuación, se explican los pasos iniciales de este proceso:
+        p Al iniciar, es indispensable entender las estipulaciones del negocio, empresa u organización, con la finalidad de llevar a cabo, un levantamiento adecuado de los requisitos. 
+        p A continuación, se explican los pasos iniciales de este proceso:
 
     .tarjeta.color-slider.p-4
       SlyderA(tipo="b")
@@ -20,7 +21,8 @@
           .col-md-6.mb-4.mb-md-0
             p.ms-5 Desarrollar un proyecto de <em>software</em> parte de una idea o necesidad de negocio: resolver un problema, mejorar un proceso o explotar una nueva oportunidad.
 
-            p.ms-5 Las personas u organizaciones que efectivamente tienen que ver con el proyecto de <em>software</em>, quienes tienen ese interés válido en cubrir esas necesidades constituyen el grupo de interés; dentro de este hay patrocinadores que impulsan el proyecto, clientes que tienen el problema a resolver y un equipo técnico de trabajo capaz de materializar esas ideas o necesidades en un producto de <em>software</em>.
+            p.ms-5 Las personas u organizaciones que, efectivamente, tienen que ver con el proyecto de <em>software</em>, y que tienen un interés valedero para cubrir esas necesidades, son las que conforman el grupo de interés; dentro de este, se encuentran patrocinadores que impulsan el proyecto, clientes que tienen problemas para resolver y un equipo técnico de trabajo, capaz de materializar esas ideas o necesidades, en un producto de <em>software</em>.
+
 
           .col-md-6
             figure
@@ -51,7 +53,7 @@
               li 
                 .lista-ol--cuadro__vineta.ms-3
                   span 4
-                p Un buen entendimiento inicial del problema y su contexto asociado, constituyen el núcleo de la especificación de requerimientos. 
+                p Un buen entendimiento inicial del problema y su contexto asociado, que constituyen el núcleo de la especificación de requerimientos.
               li 
                 .lista-ol--cuadro__vineta.ms-3
                   span 5
@@ -66,15 +68,15 @@
               img(src='@/assets/curso/temas/tema1/img-4.svg')
         .row
           .col-md-7.mb-4.mb-md-0.row.justify-content-center.align-items-center
-            p.ms-5 Independientemente de la metodología a seguir para el desarrollo del proyecto, la actividad inicial es determinar la viabilidad del producto final. 
+            p.ms-5 Independientemente de la metodología a seguir para el desarrollo del proyecto, la actividad inicial, es la de determinar la viabilidad del producto final.  
 
-            p.ms-5 <b>Esta etapa de concepción del <em>software</em> tiene dos pasos:</b>
+            p.ms-5 Esta etapa de concepción del <em>software</em> consta de dos pasos:
 
             ol.lista-ol--cuadro.ms-5
               li 
                 .lista-ol--cuadro__vineta.ms-3
                   span 1
-                p Recopilar el catálogo de requerimientos - lo que el cliente quiere que el <em>software</em> haga. Se debe <b>escuchar y conversar</b> con los interesados, hacer lo que el cliente pide, evitando exagerar los requerimientos o ilusionar al cliente con algo que no se puede cumplir; lo importante es construir un sistema que funcione y cumpla las expectativas del cliente y los usuarios.
+                p Recopilar el catálogo de requerimientos – lo que el cliente quiere que el <em>software</em> haga. Se debe<b> escuchar</b> y <b>conversar</b> con los interesados, hacer lo que el cliente solicite, evitando exagerar los requerimientos o ilusionar al cliente con algo que no se pueda cumplir; lo importante es construir un sistema que funcione y cumpla con las expectativas del cliente y de los usuarios.
           .col-md-5
             figure
               img.tamanio-img(src='@/assets/curso/temas/tema1/img-5.svg')
@@ -118,7 +120,7 @@
                 p Equipo de trabajo que realiza el desarrollo.
           .col-md-6
             .titulo-sexto.color-acento-contenido.pb-0
-              p.mb-0.text-small <b>Figura 1.</b> Interesados del proyecto
+              
             figure
               img.mb-2(src='@/assets/curso/temas/tema1/img-7.svg')
               figcaption.color-caption Nota: Adaptada de Análisis de los stakeholders. Grandes Pymes (2017).
@@ -144,23 +146,22 @@
                 img(src='@/assets/curso/temas/tema1/img-9.svg')
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p El estudio de viabilidad examina el contexto del <em>software</em> a realizarse; las necesidades específicas que deben abordar el diseño y la construcción; las prioridades que guían el orden en el que se efectúa el trabajo; la información; las funciones y los comportamientos que afectarán el producto resultante.
+                p El estudio de viabilidad, examina el contexto del <i>software</i> a realizarse, las necesidades específicas que deben abordar el diseño y la construcción, las prioridades que guían el orden en el que se efectúa el trabajo, la información y las funciones y los comportamientos que afectarán el producto resultante.
 
     p.mb-5 <b>Consiste en siete fases diferentes:</b> concepción, indagación u obtención, elaboración, negociación, especificación, validación y administración. Algunas pueden ser concurrentes y todas se adaptan a las necesidades del proyecto de <em>software</em>:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 2.</b> Fases del estudio de viabilidad
+
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-10.svg')
 
     PasosB.color-acento-botones.color-fondo-puntos.p-3.mb-5
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Concepción:</b>
+          p.ms-5 <b>Concepción</b>
 
-          p.ms-5 El proyecto comienza cuando se identifica una necesidad del negocio o se descubre un mercado o servicio potencial. En esta fase se hace el entendimiento básico del problema, se identifican los usuarios finales y lo que quieren o necesitan, es decir, la naturaleza de la solución.
+          p.ms-5 El proyecto comienza cuando se identifica una necesidad del negocio o se descubre un mercado o servicio potencial. En esta etapa, se produce el entendimiento básico del problema, se identifican los usuarios finales, lo que quieren y lo que necesitan; es decir, la naturaleza de la solución.
 
 
         .col-md-5.mb-4.mb-md-0
@@ -169,9 +170,9 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Indagación u obtención:</b>
+          p.ms-5 <b>Indagación u obtención</b>
 
-          p.ms-5 Consiste en preguntarle al cliente, a los usuarios y a los demás interesados cuáles son los objetivos para el sistema, qué se va a lograr, cómo se ajusta a las necesidades del negocio y, finalmente, cómo va a usarse en la operación diaria. La parte más importante de la indagación es entender los objetivos del negocio, estos pueden ser funcionales o no-funcionales.
+          p.ms-5 Consiste en preguntarle al cliente, a los usuarios y a los demás interesados, cuáles son los objetivos para el sistema, qué se va a lograr, cómo se ajusta a las necesidades del negocio y, finalmente, cómo va a usarse en la operación diaria. La parte más importante de la indagación es la de entender los objetivos del negocio, los cuales pueden ser funcionales o no-funcionales.
           .row.ms-5
             .col-auto 
               p.mt-4 <b>Problemas que pueden surgir en esta etapa</b>
@@ -186,9 +187,9 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Elaboración:</b>
+          p.ms-5 <b>Elaboración</b>
           
-          p.ms-5 Consiste en desarrollar, expandir y refinar la información obtenida del cliente durante la concepción e indagación. Debe identificar aspectos funcionales, del comportamiento e información del <em>software</em>. La elaboración toma los escenarios de usuario y los refina. Cada escenario o caso describe cómo el usuario va a interactuar con el sistema y se analiza para extraer las clases o entidades de negocio visibles al usuario. Se definen los atributos de cada clase analizada y los servicios que requiere cada una.
+          p.ms-5 Consiste en desarrollar, expandir y refinar, la información obtenida del cliente, durante la concepción y la indagación. Se deben identificar aspectos funcionales del comportamiento y la información del <em>software</em>. La elaboración toma los escenarios de usuario y los refina. Cada escenario o caso, describe cómo el usuario va a interactuar con el sistema y se analiza para extraer las clases o entidades de negocio, visibles para el usuario. Se definen los atributos de cada clase analizada y los servicios que requiere cada una.
 
         .col-md-5.mb-4.mb-md-0
           figure
@@ -196,11 +197,11 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Negociación:</b>
+          p.ms-5 <b>Negociación</b>
 
-          p.ms-5 Es usual que clientes y usuarios pidan más de lo que puede lograrse con la limitación de recursos del negocio. También es común que distintos clientes o usuarios propongan requerimientos conflictivos con el argumento de que su versión es <b>“esencial para nuestras necesidades”.</b>
+          p.ms-5 Es usual que clientes y usuarios pidan más de lo que puede lograrse con la limitación de recursos del negocio. También es común que diferentes clientes o usuarios, propongan requerimientos conflictivos, con el argumento que su versión es “esencial para nuestras necesidades”.
 
-          p.ms-5 Para conciliar durante la fase de negociación, se pide a clientes, usuarios y otros interesados que prioricen sus requerimientos y que analicen los conflictos. Mediante un enfoque iterativo se da prioridad a los requerimientos, evaluando su costo y riesgo, y se enfrentan los conflictos internos; algunos se eliminan, se combinan o se modifican de modo que ambas partes ganan pues se logra un acuerdo satisfactorio.
+          p.ms-5 Para conciliar durante la fase de negociación, se solicita a clientes, usuarios y otros interesados, que prioricen sus requerimientos y analicen los conflictos. Mediante un enfoque repetitivo, se da prioridad a los requerimientos, evaluando su costo y su riesgo y se enfrentan los conflictos internos; algunos se eliminan, se combinan o se modifican, de modo que ambas partes ganen, porque se logra un acuerdo satisfactorio.
 
         .col-md-5.mb-4.mb-md-0
           figure
@@ -208,9 +209,9 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Especificación:</b>
+          p.ms-5 <b>Especificación</b>
 
-          p.ms-5 Puede ser un documento, varios modelos gráficos, un modelo matemático, un conjunto de casos de uso, un prototipo o cualquier combinación de éstos. Puede usarse una plantilla estándar, lo que lleva a presentar los requerimientos en forma consistente y comprensible. Pero en ocasiones es necesario ser flexible cuando se desarrolla una especificación. Para sistemas grandes conviene realizar un documento escrito que combine descripciones en un lenguaje natural con modelos gráficos, pero para sistemas pequeños quizá todo lo que se requiera sean casos de uso.
+          p.ms-5 Puede ser un documento, varios modelos gráficos, un modelo matemático, un conjunto de casos de uso, un prototipo o cualquier combinación de estos. Puede usarse una plantilla estándar, lo que lleva a presentar los requerimientos de forma consistente y comprensible. Pero, en ocasiones, se hace necesario ser flexibles cuando se desarrolla una especificación. Para grandes sistemas, conviene realizar un documento escrito que combine descripciones en un lenguaje natural, con modelos gráficos; pero, para sistemas pequeños, quizá todo lo que se requiera sean casos de uso.
 
         .col-md-5.mb-4.mb-md-0
           figure
@@ -218,14 +219,15 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Validación:</b>          
+          p.ms-5 <b>Validación</b>          
 
-          p.ms-5 Consiste en evaluar la calidad del resultado generado desde la ingeniería de requerimientos analizando las especificaciones para garantizar que todos han sido enunciados sin ambigüedades; que se detectaron y corrigieron las inconsistencias, omisiones y errores, y que el resultado del trabajo se presenta conforme a los estándares establecidos para el proceso, el proyecto y el producto. 
+          p.ms-5 Consiste en evaluar la calidad del resultado generado, desde la ingeniería de requerimientos, analizando las especificaciones para garantizar que todos han sido enunciados sin ambigüedades; que se detectaron y corrigieron las inconsistencias, omisiones y errores, y que el resultado del trabajo se presenta, de acuerdo con los estándares establecidos para el proceso, el proyecto y el producto. 
 
-          p.ms-5 Ejemplos de los problemas que ocurren durante la validación de requisitos y que parecen inocuos:
+          p.ms-5 Ejemplos de los problemas que suceden durante la validación de requisitos y que parecen inocuos:
 
-          p.ms-5 ●  El <em>software</em> debe ser fácil de usar.
-          p.ms-5 ●  La probabilidad de una intrusión exitosa no autorizada en la base de datos debería ser menor que 0.0001.
+          p.ms-5 ●  El <em>software</em> debe ser fácil de utilizar.
+          p.ms-5 ●  La probabilidad de una intrusión exitosa no autorizada en la base de datos, debería ser menor que 0.0001.
+          
 
         .col-md-5.mb-4.mb-md-0
           figure
@@ -233,9 +235,9 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 El primer requisito es vago para los desarrolladores que lo prueben o evalúen. ¿Qué significa exactamente "fácil de usar"? Para validarlo, debe ser cuantificado o calificado de alguna manera. 
+          p.ms-5 El primer requisito es vago para los desarrolladores que lo prueben o evalúen. ¿Qué significa exactamente "fácil de utilizar"? Para validarlo, debe ser cuantificado o calificado de alguna manera. 
 
-          p.ms-5 El segundo requisito tiene un elemento cuantitativo (“menos de 0.0001”), pero estas pruebas de intrusión son difíciles y consumen mucho tiempo; además, ¿está justificado este nivel de seguridad para la aplicación?, ¿pueden otros requisitos complementarios de seguridad (por ejemplo, protección por contraseña, protocolo de enlace especializado) reemplazar el requisito cuantitativo anotado?
+          p.ms-5 El segundo requisito tiene un elemento cuantitativo (menos que 0.0001), pero estas pruebas de intrusión son difíciles y consumen mucho tiempo; además, ¿está justificado este nivel de seguridad para la aplicación?, ¿pueden otros requisitos complementarios de seguridad (por ejemplo, protección por contraseña, protocolo de enlace especializado), reemplazar el requisito cuantitativo anotado?
 
           .row.ms-5
             .col-auto 
@@ -251,25 +253,59 @@
 
       .row(titulo="")
         .col-md-7.mb-4.mb-md-0.mt-5
-          p.ms-5 <b>Administración:</b>
+          p.ms-5 <b>Administración</b>
 
-          p.ms-5 Todos los requerimientos de <em>software</em> cambian, y el deseo o necesidad de modificarlos continúa durante el ciclo de vida del sistema. La administración es un conjunto de actividades que ayudan al equipo del proyecto a identificar, controlar hacer seguimiento y modificaciones en cualquier momento del desarrollo del proyecto.
+          p.ms-5 Todos los requerimientos de <em>software</em> cambian, y el deseo o necesidad de modificarlos continúa durante el ciclo de vida del sistema. La administración se refiere a un conjunto de actividades que ayudan al equipo del proyecto a identificar, controlar, hacer seguimiento y modificaciones, en cualquier momento del desarrollo del proyecto.
 
-          p.ms-5 La importancia de la identificación de requerimientos radica en que define claramente lo que se va a hacer, entregando un documento de requisitos de <em>software</em> que servirá como insumo de entrada a las siguientes fases del proyecto, de manera que una falla inicial se propagará en las siguientes fases de elaboración y construcción, haciendo que su solución sea mucho más costosa que haberla detectado y corregido inicialmente.
+          p.ms-5 La importancia de la identificación de requerimientos radica en que define claramente lo que se va a hacer, entregando un documento de requisitos de <em>software</em>, que servirá como insumo de entrada a las siguientes fases del proyecto, de manera que una falla inicial se propagará en las siguientes fases de elaboración y construcción, haciendo que su solución sea mucho más costosa que haberla detectado y corregido inicialmente.
 
         .col-md-5.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/temas/tema1/img-18.svg')
 
-    p.mb-5 <b>A continuación, se presenta un ejemplo de lista de chequeo para validación de requerimientos.</b>
+    p.mb-5 A continuación, se presenta un ejemplo de lista de chequeo, para la validación de requerimientos:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Tabla 1.</b> Ejemplo de lista de chequeo
+          h5 Tabla 1
+          p.mb-0
+            em Ejemplo de lista de chequeo
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-19.svg')
-          figcaption.color-caption-1 Nota. Adaptada de Software Engineering: A Practitioner's Approach. Pressman y Maxim (2019).
+          figcaption.color-caption-1 Nota. Adaptada de Software Engineering: A Practitioner's Approach.
+
+
+
+    p.mb-3 Ahora verifiquemos los problemas que pueden surgir durante cada etapa:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12   
+        .row.justify-content-center
+  
+          .col-lg-3.fnd-1.px-1
+            figure.mb-4
+              img(src='@/assets/curso/temas/tema1/1.svg', alt='Texto que describa la imagen')
+            h3.text-center Problemas de alcance 
+            p.text-center.px-3 Si se especifican detalles técnicos innecesarios, el límite de lo que debe hacer el sistema se confunde y se pierden los objetivos generales del sistema.  
+
+          .col-lg-3.fnd-1.px-1
+            figure.mb-4
+              img(src='@/assets/curso/temas/tema1/2.svg', alt='Texto que describa la imagen')
+            h3.text-center Problemas de entendimiento 
+            p.text-center.px-3 Surgen porque hay diferencias entre la visión, el léxico, e incluso, la forma de ser entre clientes, usuarios, patrocinadores y el equipo de desarrollo.  
+
+          .col-lg-3.fnd-1.px-1
+            figure.mb-4
+              img(src='@/assets/curso/temas/tema1/3.svg', alt='Texto que describa la imagen')
+            h3.text-center Problemas de volatilidad 
+            p.text-center.px-3 Los requerimientos no son estáticos pues cambian con el tiempo, el mercado, una nueva regulación o aparición de un producto de la competencia.             
+
+    p La validación de requerimientos es un proceso continuo durante el desarrollo del software, para asegurar que el resultado represente las necesidades y expectativas de los clientes. Esta actividad contribuye a mejorar la calidad de los requerimientos, a reducir costos, tiempos y riesgos en el desarrollo de software. (Santana, et al., 2020)
+    p El primer requisito es vago para los desarrolladores que lo prueben o evalúen; ¿qué significa exactamente "fácil de utilizar"? Para validarlo, debe ser cuantificado o calificado de alguna manera.
+    p El segundo requisito tiene un elemento cuantitativo (menos que 0.0001), pero en las pruebas de intrusión son difíciles y consumen mucho tiempo; además, ¿está justificado este nivel de seguridad?, ¿pueden otros requisitos asociados a seguridad (por ejemplo, protección de contraseña, protocolo de enlace especializado), reemplazar el requisito cuantitativo anotado?
+    p Se hace mediante una revisión técnica en la que participan el equipo de trabajo y los demás interesados o sus representantes, que analizan la especificación en busca de errores de contenido o de interpretación, de aspectos en los que tal vez se requiera hacer aclaraciones, falta de información, inconsistencias y requerimientos conflictivos o inalcanzables.
+
 
     separador 
 
@@ -292,15 +328,17 @@
         .cajon.p-4.mb-4.color-cajon.mb-5
           p Declaraciones como: <b>“el programa debe escribirse en Java”</b> no es un requerimiento porque es una decisión de implementación. Pero una declaración como: <b>“un usuario puede retirar de la biblioteca hasta 10 libros diferentes al tiempo”</b> si es un requerimiento porque define un atributo de la clase usuario.
 
-    p.mb-5 En el siguiente gráfico se pueden observar los elementos que intervienen en el proceso de análisis y recopilación de requisitos.
+    p.mb-5 En el siguiente gráfico, se pueden observar los elementos que intervienen en el proceso de análisis y recopilación de requisitos:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7 
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 3.</b> Proceso de análisis y recopilación de requisitos
+          h5 Figura 2
+          p.mb-0 
+            em Proceso de análisis y recopilación de requisitos
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-21.svg')
-          figcaption.color-caption-1 Nota: Adaptada de Análisis de los <em>stakeholders.</em> ,<a href="https://www.grandespymes.com.ar/2021/04/10/analisis-de-los-stakeholders/">Grandes Pymes (2021).https://www.grandespymes.com.ar/2021/04/10/analisis-de-los-stakeholders/</a>  
+          figcaption.color-caption-1 Nota: Adaptada de Análisis de los stakeholders (2021).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -335,7 +373,7 @@
               .col-12
                 p.mb-0 Del entorno (dominio) son consistentes.
 
-    p.mb-5 Un requerimiento debe cumplir ciertos criterios y características, entre otros debe ser único, verificable, claro, realista y posible (Equipo Editorial <em>Project Management,</em> 2019). Las cualidades clave de los requerimientos son:
+    p.mb-5 Un requerimiento debe cumplir ciertos criterios y características; entre otros, debe ser único, verificable, claro, realista y posible (Equipo Editorial <i>Project Management</i>, 2019). Las cualidades claves de los requerimientos son:
 
     .row.justify-content-center.mb-5
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -372,7 +410,7 @@
               img(src="@/assets/curso/temas/tema1/img-27.svg")
           .crd_hover_txt--body
             h5.mb-3 Consistencia
-            p.mb-0 Al involucrar interesados con diferentes opiniones sobre el problema, se presentan contradicciones en las etapas tempranas de desarrollo. A través de la negociación y priorización se resuelven los conflictos y alcanza un acuerdo.  
+            p.mb-0 Al involucrar interesados con diferentes opiniones sobre el problema, se presentan contradicciones en las etapas tempranas de desarrollo. A través de la negociación y priorización, se resuelven los conflictos y se alcanza un acuerdo.
             
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -412,16 +450,19 @@
         figure
           img(src="@/assets/curso/temas/tema1/img-32.svg")
       .col-lg-9
-        p Contar con una buena clasificación de requisitos permite establecer las necesidades de un proyecto de desarrollo cubriendo sus aspectos más importantes.
+        p Contar con una buena clasificación de requisitos permite establecer las necesidades de un proyecto de desarrollo, cubriendo sus aspectos más importantes.
 
-        p Los requerimientos del <em>software</em> a desarrollar pueden clasificarse según distintas reglas. En la siguiente tabla se detalla dicha clasificación.
+        p Los requerimientos del <em>software</em> a desarrollar pueden clasificarse según diferentes reglas. En la siguiente tabla, se detalla esta clasificación:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Tabla 2.</b> Clasificación de los requerimientos
+          h5 Tabla 2
+          p.mb-0
+            em Clasificación de los requerimientos
+            
         figure
-          img.mb-2(src='@/assets/curso/temas/tema1/img-34.svg')
+          img.mb-2(src='@/assets/curso/temas/tema1/img-34-.svg')
           figcaption.color-caption-1 Nota. Adaptada de Mohapatra y Rath (2020).
 
     separador 
@@ -429,7 +470,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido.pb-2
       h3 1.3 Herramientas y técnicas
 
-    p.mb-5 Los usuarios nunca saben lo que quieren del producto final, por esto se enfatiza en “escuchar y conversar” con ellos: Hay varias técnicas para este diálogo debido a que los usuarios no son un grupo monolítico, tienen diferentes necesidades, quieren diferentes funcionalidades y ni siquiera utilizarán los mismos equipos.
+    p.mb-5 Los usuarios nunca saben lo que quieren del producto final y, por esta razón, se enfatiza en “escuchar y conversar” con ellos; hay varias técnicas para este diálogo, debido a que los usuarios no son un grupo monolítico, tienen diferentes necesidades, quieren diferentes funcionalidades y ni siquiera utilizarán los mismos equipos. Veamos: 
 
     .tarjeta.color-slider.p-4.mb-5
       SlyderA(tipo="b")
@@ -485,10 +526,8 @@
           .col-lg-8
             p Se usan plantillas normalizadas que sirven para articular el problema y ayudan en la delimitación de la visión del producto. Bautizar el proyecto con un nombre que contenga la esencia, le da vida al proyecto, facilita referirlo con el equipo de trabajo y la documentación.
 
-            .cajon.p-4.mb-4.color-cajon-1.mb-5
-              p Para afianzar el conocimiento, se recomienda ver las plantillas normalizadas para uso en la recogida y análisis de requisitos.
 
-    p.mb-5 Las técnicas de interacción con los patrocinadores y clientes son individuales o grupales, se reúnen los usuarios para preguntarles qué es lo que quieren o buscan de la aplicación, procesos del negocio o necesidades de la organización.
+    p.mb-5 Las técnicas de interacción con los patrocinadores y clientes, son individuales o grupales; se reúnen los usuarios para preguntarles qué es lo que quieren o buscan de la aplicación, procesos del negocio o necesidades de la organización:
 
     TabsB.color-primario.mb-5
       .py-4.py-md-5(titulo="Entrevista" :icono="require('@/assets/curso/temas/tema1/img-42.svg')")
@@ -504,7 +543,7 @@
       .py-4.py-md-5(titulo="Talleres <em>(Workshop)</em>" :icono="require('@/assets/curso/temas/tema1/img-43.svg')")
         .row
           .col-md-6
-            p Como la entrevista, pero enfocada en la parte funcional, reúne los interesados clave: patrocinadores y expertos del dominio, que mediante trabajo colaborativo y discusiones resuelven asuntos sobre diferencias de opinión, necesidades, conflictos y requerimientos no clarificados. 
+            p Como la entrevista, pero enfocada en la parte funcional, reúne a los interesados clave: patrocinadores y expertos del dominio, que mediante trabajo colaborativo y discusiones, resuelven asuntos sobre diferencias de opinión, necesidades, conflictos y requerimientos no clarificados. 
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-48.svg')
@@ -519,7 +558,7 @@
         .row
           .col-md-6
             h4 
-            p Si el grupo es grande o está en otra ciudad, se consignan las preguntas y se envían para diligenciarse. Las preguntas deben ser claras, correctas y enfocadas hacia los requerimientos específicos del encuestado. Recibir retroalimentación ayuda a mejorar la calidad y consistencia de las preguntas.
+            p Si el grupo es grande o está en otra ciudad, se consignan las preguntas y se envían para diligenciarse. Las preguntas deben ser claras, concretas y enfocadas hacia los requerimientos específicos del encuestado. Recibir retroalimentación ayuda a mejorar la calidad y consistencia de las preguntas.
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-50.svg')
@@ -537,15 +576,17 @@
         figure
           img(src="@/assets/curso/temas/tema1/img-52.svg")
       .col-lg-10
-        p El tipo de aplicación determina cuál técnica de interacción usar: si es masiva se hacen entrevistas, grupos de enfoque y cuestionarios; si es individual o para un grupo pequeño se hace observación o, si se es nuevo en el dominio del software, hay que hacer talleres y observaciones para adquirir conocimiento y entender el dominio.
+        p El tipo de aplicación determina cuál técnica de interacción usar: si es masiva, se hacen entrevistas, grupos de enfoque y cuestionarios; si es individual o para un grupo pequeño, se hace observación o, si se es nuevo en el dominio del <em>software</em>, hay que hacer talleres y observaciones para adquirir conocimiento y entender el dominio.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 4.</b> Técnicas para recopilar requerimientos
+          h5 Figura 3
+          p.mb-0
+            em Técnicas para recopilar requerimientos
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-53.svg')
-          figcaption.color-caption-1 Nota. Reproducida de Técnicas para la recolección de requisitos. Team Asana (2021).  
+          figcaption.color-caption-1 Nota. Adaptada de Técnicas para la recolección de requisitos (2021).  
 
     p.mb-5 La recopilación de requisitos es una de las fases fundamentales del proceso de análisis, diseño y construcción de <em>software</em>, ya que ayuda a obtener la primera descripción del problema. A continuación, en la infografía conocerá las técnicas tradicionales más usadas en la elicitación de requisitos. 
 
@@ -604,7 +645,7 @@
               .bloque-texto-a__texto.p-1
                 p.p-3 Los requerimientos desde la perspectiva del usuario se cuentan como una historia que resume el rol y los cómo, por qué y cuándo de una característica del <em>software</em>, mediante una descripción sencilla y corta, al menos dos oraciones escritas y diálogos sobre la funcionalidad o necesidad del cliente que se hagan con el equipo de desarrollo; es una forma conveniente, efectiva y popular para escribir requerimientos. 
 
-    p.mb-5 El propósito del mapeo de historias es facilitar el descubrimiento de productos y la priorización de los esfuerzos de desarrollo. Se logra colocando las acciones y tareas del usuario en un mapa que se usa para mantenerlas en contexto (Digité, 2020). Para escribir historias de usuario usa una tarjeta con los tres componentes centrados en el valor que se busca obtener.
+    p.mb-5 El propósito del mapeo de historias, es el de facilitar el descubrimiento de productos y la priorización de los esfuerzos de desarrollo. Se logra, colocando las acciones y tareas del usuario en un mapa que se usa para mantenerlas en contexto (Digité, 2020). Para escribir historias de usuario, se usa una tarjeta con los componentes centrados en el valor que se busca obtener:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
@@ -649,17 +690,19 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 5.</b> Modelo de tarjeta para capturar historias de usuario
+          h5 Figura 4
+          p.mb-0 
+            em Modelo de tarjeta para capturar historias de usuario
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-62.svg')
-          figcaption.color-caption-1   Nota. Adaptada de Plantilla para las historias de usuario. Scrumízate (2017).
+          figcaption.color-caption-1   Nota. Adaptada de Plantilla para las historias de usuario (2017). 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
         figure
           img(src="@/assets/curso/temas/tema1/img-63.svg")
       .col-lg-10
-        p Los criterios de aceptación consignados en la tarjeta permitirán la futura evaluación de la implementación, las pruebas a ejecutar y los puntos de vista para entender el trabajo a realizar, delimitar lo indispensable y definir cómo las funciones del sistema van a interactuar con el usuario.
+        p Los criterios de aceptación consignados en la tarjeta, permitirán la futura evaluación de la implementación, las pruebas a ejecutar y los puntos de vista, para entender el trabajo a realizar, delimitar lo indispensable y definir cómo las funciones del sistema van a interactuar con el usuario; verifiquemos el proceso:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -669,15 +712,17 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.p-3.color-cajon-3.mb-5
-          p El mapa de historias captura las perspectivas de los usuarios, descompone los requerimientos de las historias en una secuencia como parte del flujo de trabajo, agrupándolas en temas relacionados y dándoles prioridad desde el punto de vista de usabilidad.
+          p El mapa de historias captura las perspectivas de los usuarios, descompone los requerimientos de las historias en una secuencia como parte del flujo de trabajo, agrupándolas con temas relacionados y dándoles prioridad desde el punto de vista de usabilidad; es de esta manera que se compone:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 6.</b> Tablero con mapa de historias
+          h5 Figura 5
+          p.mb-0
+            em Tablero con mapa de historias
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-65.svg')
-          figcaption.color-caption-1  Nota. Adaptada de <em>User stories with examples and a template.</em> REHKOPF (2021).
+          figcaption.color-caption-1  Nota. Adaptada de User stories with examples and a template (2021). 
 
     .tarjeta.color-tar-1.mb-5
       .row.justify-content-between.align-items-center
@@ -697,7 +742,7 @@
     .tarjeta.color-tar-1.mb-5
       .row.justify-content-around.align-items-center
         .col-md.col-lg-8
-          p.ms-5 El caso de uso es una descripción formal de las acciones de un sistema desde el punto de vista del cliente/usuario y representa cada uno de los requisitos funcionales del sistema, también especifica el comportamiento de dicha funcionalidad de dos formas: básica sin errores y extendida con los errores que puedan ocurrir.
+          p.ms-5 El caso de uso es una descripción formal de las acciones de un sistema desde el punto de vista del cliente/usuario y representa cada uno de los requisitos funcionales del sistema; también especifica el comportamiento de dicha funcionalidad, de dos formas: básica sin errores y extendida con los errores que puedan ocurrir. 
         .col-8.col-sm-5.col-md-4.mb-4.mb-md-0
           img(src="@/assets/curso/temas/tema1/img-68.svg")
 
@@ -716,10 +761,10 @@
                     img(src='@/assets/curso/temas/tema1/img-70.svg')
                 .col-lg-9
                   .h4 Funcionalidad
-                  p.mb-3 La funcionalidad se escribe en una plantilla con lenguaje natural e incluye información:
-                  p.ms-3  ●  Identificador
-                  p.ms-3  ●  Nombre del caso
-                  p.ms-3  ●  Actores involucrados
+                  p.mb-3 La funcionalidad se escribe en una plantilla con lenguaje natural e incluye la siguiente información:
+                  p.ms-3  ●  Identificador.
+                  p.ms-3  ●  Nombre del caso.
+                  p.ms-3  ●  Actores involucrados.
                   p.ms-3  ●  Precondiciones, lo que tiene que cumplirse o hacerse antes de la ejecución del caso.
                   p.ms-3  ●  Postcondiciones, lo que se debe cumplir después de ejecutar el caso de uso.
                   p La descripción del flujo de eventos determina qué hace el sistema y qué interacción tiene con los actores, para entregar la funcionalidad completa.
@@ -747,7 +792,7 @@
                   .h4 Plantilla de casos de uso
                   p.mb-3 Los casos de uso enfocan el proceso de desarrollo debido a que varias actividades posteriores, como el diseño y pruebas, parten de ellos. 
 
-    p.mb-5 A continuación, se encuentra una plantilla que contiene las especificaciones esenciales para escribir casos de uso.
+    p.mb-5 A continuación, se encuentra una plantilla que contiene las especificaciones esenciales para escribir casos de uso:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -755,7 +800,7 @@
           p.mb-0.text-small <b>Tabla 3.</b> Plantilla para escribir el caso de uso
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-74.svg')
-          figcaption.color-caption-1 Nota. Adaptada de Casos de uso y diagramas de casos de uso. Universitat Politècnica de València-UPV (2021). 
+          figcaption.color-caption-1 Nota. Adaptada de Casos de uso y diagramas de casos de uso (2021).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -802,16 +847,18 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 7.</b> Ejemplo de diagrama de caso de uso
+          h5 Figura 6
+          p.mb-0
+            em Ejemplo de diagrama de caso de uso
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-82.svg')
-          figcaption.color-caption-1 Nota. Reproducida de Casos de uso y diagramas de casos de uso. Universitat Politècnica de València-UPV (2021).
+          figcaption.color-caption-1 Nota.  Adaptada de Casos de uso y diagramas de casos de uso (2021).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         p En la figura anterior se ven los elementos del diagrama: el rectángulo que representa el sistema y dentro de este los casos de uso que indican sus funciones; las figuras representan los actores externos al sistema. Las relaciones entre actor y caso de uso se dibujan con una línea simple. Las flechas etiquetadas representan las relaciones entre los casos de uso. La relación "incluir" indica que un caso de uso es necesitado por otro para poder cumplir una tarea y que el primero puede realizar todos los eventos del caso incluido. La relación "extender" indica opciones que pueden o no ejecutarse para cierto caso de uso.
 
-        p Por ejemplo, solo el ACTOR 1 (Socio) puede ejecutar todos los casos de uso, el ACTOR 2 (Cliente) no puede ejecutar el caso de uso REPETIR ÚLTIMA COMPRA. El caso PAGO CON TARJETA DEBITO siempre incluye el caso IDENTIFICAR LA TARJETA, pero el caso OFRECER AYUDA es una alternativa, finalmente IDENTIFICAR LA TARJETA se puede hacer con IDENTIFICAR CON PIN o IDENTIFICAR POR CONTACTO que involucra el actor LECTOR NFC.
+        p Por ejemplo, solo el ACTOR 1 (Socio) puede ejecutar todos los casos de uso, el ACTOR 2 (Cliente) no puede ejecutar el caso de uso REPETIR ÚLTIMA COMPRA. El caso PAGO CON TARJETA DÉBITO siempre incluye el caso IDENTIFICAR LA TARJETA, pero el caso OFRECER AYUDA es una alternativa, finalmente IDENTIFICAR LA TARJETA se puede hacer con IDENTIFICAR CON PIN o IDENTIFICAR POR CONTACTO que involucra el actor LECTOR NFC.
       
         .cajon.p-4.mb-4.color-cajon-1.mb-5
           p Los diagramas sirven para identificar actores externos y delimitar el sistema, indicando las relaciones y complementándose con las plantillas que describen cada uno de los casos de uso ilustrados.
@@ -820,7 +867,7 @@
         figure
           img.mb-5(src='@/assets/curso/temas/tema1/img-83.svg')
 
-    p.mb-5 <b>Para afianzar el aprendizaje del lenguaje UML se invita a ver el siguiente video</b>
+    p.mb-5 Para afianzar el aprendizaje del lenguaje UML, se invita a ver el siguiente video:
     
     figure.mb-5
       .video
@@ -838,15 +885,18 @@
 
           p El uso de mapas de procesos mejora la comunicación y documentación, ayudando al equipo de trabajo a identificar cuellos de botella, repeticiones y demoras.
 
-          p La figura muestra los elementos del diagrama de flujo que incluyen acciones, pasos de actividades, puntos de decisión, funciones, entradas o salidas, personas involucradas, cuantificación del proceso y tiempo necesario. Cada elemento se representa con un símbolo específico, como una flecha, un círculo, un diamante, un recuadro, un óvalo o un rectángulo.
+          p La siguiente figura muestra los elementos del diagrama de flujo que incluyen acciones, pasos de actividades, puntos de decisión, funciones, entradas o salidas, personas involucradas, cuantificación del proceso y tiempo necesario. Cada elemento se representa con un símbolo específico, como una flecha, un círculo, un diamante, un recuadro, un óvalo o un rectángulo.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 8.</b> Símbolos del diagrama de flujo (procesos)
+          h5 Figura 7
+          mb-0
+            em Símbolos del diagrama de flujo (procesos)
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-85.svg')
-          figcaption.color-caption-1 Nota. Adaptada de ¿Cuáles son tus necesidades de creación de mapas de procesos? Lucidchart (2021). 
+          figcaption.color-caption-1 Nota. Adaptada de ¿Cuáles son tus necesidades de creación de mapas de procesos? (2021).
+
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -888,10 +938,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          p.mb-0.text-small <b>Figura 9.</b> Procesos de la ingeniería de requerimientos
+          h5 Figura 8
+          p.mb-0
+            em Procesos de la ingeniería de requerimientos
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-94.svg')
-          figcaption.color-caption-1 Nota. Adaptada de Proceso de ingeniería de requisitos. Sommerville, (2016).
+          figcaption.color-caption-1 Nota. Adaptada de Proceso de ingeniería de requisitos (2016).
 
     p.mb-5 Al ser esta la fase inicial del proyecto, sus salidas alimentan las etapas sucesivas con varios productos:
 
@@ -903,17 +955,18 @@
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Desarrollar la visión general del sistema") <b>Requisitos generales del sistema,</b> especificar las características principales del <em>software</em> a desarrollar.<br><b>Casos de uso del sistema,</b> describir cómo utilizarán el <em>software</em> los clientes.
 
-          p(numero="2" titulo="Documentar los requisitos del sistema") ● <b>Diagramas de historia,</b> detallar cómo debe interactuar el <em>software</em> con los usuarios, para que puedan realizar sus tareas dentro del modelo de negocio.<br>● <b>Requisitos funcionales,</b> Enunciarlos para que a partir de ellos pueda implementarse una solución. Tipos:<br> - Requisitos de información, describen que deberá almacenar y gestionar el <em>software</em> para dar soporte a los procesos de negocio.<br> - Reglas de negocio, incluyen las reglas o restricciones de cumplimiento obligatorio.<br> - Requisitos de conducta, es decir, las capacidades o interacciones con el usuario.<br>● <b>Requisitos no funcionales,</b> las características de calidad del sistema.<br>● <b>Requisitos de integración,</b> establece cuáles servicios deben integrarse al <em>software</em>.<br>● <b>Restricciones técnicas,</b> limitaciones de carácter tecnológico que debe cumplir el sistema.
+          p(numero="2" titulo="Documentar los requisitos del sistema") ● <b>Diagramas de historia,</b> detallar cómo debe interactuar el <em>software</em> con los usuarios, para que puedan realizar sus tareas dentro del modelo de negocio.<br>● <b>Requisitos funcionales,</b>enunciarlos para que, a partir de ellos, pueda implementarse una solución. Tipos:<br> - Requisitos de información, describen que deberá almacenar y gestionar el <em>software</em> para dar soporte a los procesos de negocio.<br> - Reglas de negocio, incluyen las reglas o restricciones de cumplimiento obligatorio.<br> - Requisitos de conducta, es decir, las capacidades o interacciones con el usuario.<br>● <b>Requisitos no funcionales,</b> las características de calidad del sistema.<br>● <b>Requisitos de integración,</b> establece cuáles servicios deben integrarse al <em>software</em>.<br>● <b>Restricciones técnicas,</b> limitaciones de carácter tecnológico que debe cumplir el sistema.
 
-          p(numero="3" titulo="Analizar los requisitos del sistema") ● <b>Arquitectura del sistema.</b> Son los estándares y modelos que impactan el resto del desarrollo.<br>● <b>Modelo estático.</b> Constituye el modelo del sistema a desarrollar.<br>● <b>Modelo dinámico/funcional.</b> Detecta problemas con los casos de uso y el diseño de la capa de lógica.<br>●<b>Interfaz de usuario.</b> Relevante para la validación de los requisitos con clientes y usuarios.<br>●<b> Interfaz de servicios.</b> Importante si el sistema va a tener una interfaz que puede vulnerarse.<br>●<b> Problemas en los requisitos.</b> Identificados mediante el análisis y priorización. 
+          p(numero="3" titulo="Analizar los requisitos del sistema") ● <b>Arquitectura del sistema:</b> se refiere a los estándares y modelos que impactan el resto del desarrollo.<br>● <b>Modelo estático:</b>  constituye el modelo del sistema a desarrollar.<br>● <b>Modelo dinámico/funcional:</b> detecta problemas con los casos de uso y el diseño de la capa de lógica.<br>●<b>Interfaz de usuario:</b> Relevante para la validación de los requisitos con clientes y usuarios.<br>●<b> Interfaz de servicios:</b> Importante si el sistema va a tener una interfaz que puede vulnerarse.<br>●<b> Problemas en los requisitos:</b> Identificados mediante el análisis y priorización. 
 
           p(numero="4" titulo="Verificar la calidad de los requisitos del sistema") ● <b>Problemas en los requisitos: </b>surgen al verificar la calidad de estos.
 
           p(numero="5" titulo="Validar los requisitos del sistema") <b>Actas de reuniones,</b> recogen los resultados obtenidos en las sesiones de validación. Si hay aceptación de los interesados, se registra con actas y contratos.<br><br><b>Problemas en los requisitos.</b> identificados y validados entre los interesados.
 
-          p(numero="6" titulo="Registrar problemas en los requisitos") ● <b>Problemas en los requisitos.</b> Se anotan para aclarar su significado o suprimirlos si están duplicados.
+          p(numero="6" titulo="Registrar problemas en los requisitos") ● <b>Problemas en los requisitos:</b> se anotan para aclarar su significado, o suprimirlos si están duplicados.
 
-          p(numero="7" titulo="Registrar la trazabilidad de los requisitos") ● <b>Especificación de Requisitos del Sistema (ERS).</b> Elabora las matrices de trazabilidad que reflejan las dependencias entre los requisitos y elementos que la componen. Estas se registran dentro del ERS.
+          p(numero="7" titulo="Registrar la trazabilidad de los requisitos") ● <b>Especificación de Requisitos del Sistema (ERS):</b> elabora las matrices de trazabilidad que reflejan las dependencias entre los requisitos y elementos que la componen. Estas se registran dentro del ERS.
+
 
     ModalA(:abrir-modal.sync="modal1")
       .row.align-items-center

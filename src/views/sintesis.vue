@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 En el siguiente mapa se muestran todos los conceptos relacionados con la recolección de los requisitos del <em>software</em>, de modo que se tenga una visión de conjunto de la temática desarrollada en este componente formativo.
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
     .row.justify-content-center
       .col-lg-10.mb-5
