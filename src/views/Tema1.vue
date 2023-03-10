@@ -170,13 +170,7 @@
           p.ms-5 <b>Indagación u obtención</b>
 
           p.ms-5 Consiste en preguntarle al cliente, a los usuarios y a los demás interesados, cuáles son los objetivos para el sistema, qué se va a lograr, cómo se ajusta a las necesidades del negocio y, finalmente, cómo va a usarse en la operación diaria. La parte más importante de la indagación es la de entender los objetivos del negocio, los cuales pueden ser funcionales o no-funcionales.
-          .row.ms-5
-            .col-auto 
-              p.mt-4 <b>Problemas que pueden surgir en esta etapa</b>
-            .col-auto
-              a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
-                span Modal
-                .indicador--click(v-if="mostrarIndicador")
+
 
         .col-md-5.mb-4.mb-md-0
           figure
