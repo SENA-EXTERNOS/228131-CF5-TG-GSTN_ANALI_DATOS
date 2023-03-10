@@ -38,32 +38,6 @@ export default {
         numero: '1',
         titulo: `Entendiendo los requisitos del negocio`,
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Estudio de viabilidad del sistema y sus funcionalidades',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Recogida de requisitos',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Herramientas y técnicas',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Salidas y entregables',
-            hash: 't_1_4',
-          },
-        ],
       },
 
       {
@@ -72,44 +46,6 @@ export default {
         numero: '2',
         titulo: 'Herramientas y técnicas para recolección de requisitos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Entrevistas con patrocinador y usuarios',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Técnicas de creatividad grupal - Lluvia de ideas',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Cuestionarios y encuestas',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Análisis de tareas y de dominio',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Fabricación del modelo prototipo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Generación de documentación',
-            hash: 't_2_6',
-          },
-        ],
       },
     ],
     subMenu: [

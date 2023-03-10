@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 9
+          h5 Figura 8
           p.mb-5
             em Comic sobre las reuniones para definir requerimientos
         figure
@@ -38,19 +38,17 @@
           img.mb-2(src='@/assets/curso/temas/tema2/img-4.svg')
 
 
-    separador 
 
-    #t_2_1.titulo-segundo.color-acento-contenido.pb-2
-      h3 2.1 Entrevistas con patrocinador y usuarios
+    h3.mb-5 Entrevistas con patrocinador y usuarios
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
         figure
           img(src="@/assets/curso/temas/tema2/img-5.svg")
       .col-lg-9
-        p Las entrevistas son la técnica más utilizada en todo proceso de desarrollo de software, porque es una forma de comunicación natural entre personas.
+        p Las entrevistas son la técnica más utilizada en todo proceso de desarrollo de <i>software</i>, porque es una forma de comunicación natural entre personas.
 
-    .tarjeta.color-slider.p-4
+    .tarjeta.color-slider.p-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -98,10 +96,8 @@
             figure
               img(src='@/assets/curso/temas/tema2/img-9.png')
 
-    separador 
 
-    #t_2_2.titulo-segundo.color-acento-contenido.pb-2
-      h3 2.2 Técnicas de creatividad grupal - Lluvia de ideas
+    h3.mb-5 Técnicas de creatividad grupal - Lluvia de ideas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
@@ -196,10 +192,7 @@
             .h5.mb-2 Para concluir se completa, revisa y valida la documentación
             p El producto final es un conjunto de modelos para ser aprobados por los participantes.
 
-    separador 
-
-    #t_2_3.titulo-segundo.color-acento-contenido.pb-2
-      h3 2.3 Cuestionarios y encuestas
+    h3.mb-5 Cuestionarios y encuestas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
@@ -234,10 +227,7 @@
 
 
 
-    separador 
-
-    #t_2_4.titulo-segundo.color-acento-contenido.pb-2
-      h3 2.4 Análisis de tareas y de dominio
+    h3.mb-5 Análisis de tareas y de dominio
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
@@ -245,14 +235,14 @@
           img(src='@/assets/curso/temas/tema2/img-18.svg') 
       .col-lg-7
         .cajon-b.color-cajon-25.p-3.mb-5.color-pos-3
-          p.mb-0 El análisis de requerimientos ejecuta las tareas que determinan las necesidades o condiciones que debe cumplir el <em>software</em>, ya sea un nuevo diseño o una versión de algo existente, teniendo en cuenta los conflictos entre requisitos de los diferentes roles. Analizar, documentar, validar y administrar los requisitos se hace en la fase de análisis.
+          p El análisis de requerimientos ejecuta las tareas que determinan las necesidades o condiciones que debe cumplir el <em>software</em>, ya sea un nuevo diseño o una versión de algo existente, teniendo en cuenta los conflictos entre requisitos de los diferentes roles. Analizar, documentar, validar y administrar los requisitos se hace en la fase de análisis.
 
           p El análisis consiste en determinar si el requerimiento obtenido es claro, completo, conciso, no está duplicado, es válido, consistente y sin ambigüedades, resuelve conflictos y añade valor al proyecto. El proceso ha identificado las necesidades de los interesados, las implicaciones del <em>software</em>, representado los casos e historias de usuario, observado el sitio de trabajo y generado una cantidad de requisitos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 10 
+          h5 Figura 9 
           p.mb-0
             em Esquema del modelo FURPS+
         figure
@@ -351,9 +341,7 @@
           figcaption.color-caption-1 Nota. Tomada de Dyson, J. (2019). 
     
 
-    separador 
-    #t_2_5.titulo-segundo.color-acento-contenido.pb-2
-      h3 2.5 Fabricación del modelo prototipo
+    h3.mb-5 Fabricación del modelo prototipo
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
@@ -400,14 +388,14 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 11
+          h5 Figura 10
           p.mb-0
             em Prototipo de aplicación móvil utilizando software para maquetación
         figure
           img.mb-2(src='@/assets/curso/temas/tema2/img-34.png')
           figcaption.color-caption-1 Nota. Tomada de Ronam, S. (2021). 
 
-    p.mb-5 <b>Los pasos para desarrollar un prototipo son:</b>
+    h3.mb-5 <b>Los pasos para desarrollar un prototipo son:</b>
 
     PasosA.color-acento-botones.mb-5(tipo="n")
       .row.justify-content-center.align-items-center
@@ -500,10 +488,7 @@
               p Durante la etapa de desarrollo el programador puede alterar el prototipo y generar una iteración que requiera nuevamente la validación del usuario y, en consecuencia, incrementar costo y tiempo.
             li 
 
-    separador 
-
-    #t_2_6.titulo-segundo.color-acento-contenido.pb-2
-      h3 2.6  Generación de documentación 
+    h3.mb-5 Generación de documentación 
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -527,7 +512,7 @@
     .row.justify-content-center.align-items-center.mb-5
 
       .titulo-sexto.color-acento-contenido
-        h5 Figura 12
+        h5 Figura 11
         p.mb-0
           em Características de las herramientas para documentación de requisitos    
       .col-lg-12

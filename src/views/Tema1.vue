@@ -15,7 +15,7 @@
         p Al iniciar, es indispensable entender las estipulaciones del negocio, empresa u organización, con la finalidad de llevar a cabo, un levantamiento adecuado de los requisitos. 
         p A continuación, se explican los pasos iniciales de este proceso:
 
-    .tarjeta.color-slider.p-4
+    .tarjeta.color-slider.p-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -132,10 +132,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-8.svg')
 
-    separador 
-
-    #t_1_1.titulo-segundo.color-acento-contenido.pb-2
-      h3 1.1 Estudio de viabilidad del sistema y sus funcionalidades
+    h3.mb-5 Estudio de viabilidad del sistema y sus funcionalidades
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -239,13 +236,7 @@
 
           p.ms-5 El segundo requisito tiene un elemento cuantitativo (menos que 0.0001), pero estas pruebas de intrusión son difíciles y consumen mucho tiempo; además, ¿está justificado este nivel de seguridad para la aplicación?, ¿pueden otros requisitos complementarios de seguridad (por ejemplo, protección por contraseña, protocolo de enlace especializado), reemplazar el requisito cuantitativo anotado?
 
-          .row.ms-5
-            .col-auto 
-              p.mt-4 <b>La validación de requerimientos</b>
-            .col-auto
-              a.boton.color-acento-botones.indicador__container(@click="modal2 = true")
-                span Modal
-                .indicador--click(v-if="mostrarIndicador")
+
 
         .col-md-5.mb-4.mb-md-0
           figure
@@ -273,7 +264,7 @@
             em Ejemplo de lista de chequeo
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-19.svg')
-          figcaption.color-caption-1 Nota. Adaptada de Software Engineering: A Practitioner's Approach.
+          figcaption.color-caption-1 Nota. Adaptada de <i>Software Engineering: A Practitioner's Approach.</i>
 
 
 
@@ -304,13 +295,10 @@
     p La validación de requerimientos es un proceso continuo durante el desarrollo del software, para asegurar que el resultado represente las necesidades y expectativas de los clientes. Esta actividad contribuye a mejorar la calidad de los requerimientos, a reducir costos, tiempos y riesgos en el desarrollo de software. (Santana, et al., 2020)
     p El primer requisito es vago para los desarrolladores que lo prueben o evalúen; ¿qué significa exactamente "fácil de utilizar"? Para validarlo, debe ser cuantificado o calificado de alguna manera.
     p El segundo requisito tiene un elemento cuantitativo (menos que 0.0001), pero en las pruebas de intrusión son difíciles y consumen mucho tiempo; además, ¿está justificado este nivel de seguridad?, ¿pueden otros requisitos asociados a seguridad (por ejemplo, protección de contraseña, protocolo de enlace especializado), reemplazar el requisito cuantitativo anotado?
-    p Se hace mediante una revisión técnica en la que participan el equipo de trabajo y los demás interesados o sus representantes, que analizan la especificación en busca de errores de contenido o de interpretación, de aspectos en los que tal vez se requiera hacer aclaraciones, falta de información, inconsistencias y requerimientos conflictivos o inalcanzables.
+    p.mb-5 Se hace mediante una revisión técnica en la que participan el equipo de trabajo y los demás interesados o sus representantes, que analizan la especificación en busca de errores de contenido o de interpretación, de aspectos en los que tal vez se requiera hacer aclaraciones, falta de información, inconsistencias y requerimientos conflictivos o inalcanzables.
 
 
-    separador 
-
-    #t_1_2.titulo-segundo.color-acento-contenido.pb-2
-      h3 1.2 Recogida de requisitos
+    h3.mb-5 Recogida de requisitos
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -333,12 +321,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7 
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 2
+          h5 Figura 1
           p.mb-0 
             em Proceso de análisis y recopilación de requisitos
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-21.svg')
-          figcaption.color-caption-1 Nota: Adaptada de Análisis de los stakeholders (2021).
+          figcaption.color-caption-1 Nota: Adaptada de Análisis de los <i>stakeholders</i> (2021).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -465,10 +453,7 @@
           img.mb-2(src='@/assets/curso/temas/tema1/img-34-.svg')
           figcaption.color-caption-1 Nota. Adaptada de Mohapatra y Rath (2020).
 
-    separador 
-
-    #t_1_3.titulo-segundo.color-acento-contenido.pb-2
-      h3 1.3 Herramientas y técnicas
+    h3.mb-5 Herramientas y técnicas
 
     p.mb-5 Los usuarios nunca saben lo que quieren del producto final y, por esta razón, se enfatiza en “escuchar y conversar” con ellos; hay varias técnicas para este diálogo, debido a que los usuarios no son un grupo monolítico, tienen diferentes necesidades, quieren diferentes funcionalidades y ni siquiera utilizarán los mismos equipos. Veamos: 
 
@@ -581,7 +566,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 3
+          h5 Figura 2
           p.mb-0
             em Técnicas para recopilar requerimientos
         figure
@@ -632,7 +617,7 @@
           .tarjeta.color-modal-2.p-3(x="30.3%" y="73.6%" numero="")
             p.text-white Es un desarrollo interactivo para construcción de prototipos mediante aplicaciones <em>CASE (Computer Aided Software Engineering).</em>
 
-    p.mb-5 <b>Mapeo de historias de usuarios</b>
+    h3.mb-5 <b>Mapeo de historias de usuarios</b>
 
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -690,7 +675,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 4
+          h5 Figura 3
           p.mb-0 
             em Modelo de tarjeta para capturar historias de usuario
         figure
@@ -717,7 +702,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 5
+          h5 Figura 4
           p.mb-0
             em Tablero con mapa de historias
         figure
@@ -847,7 +832,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 6
+          h5 Figura 5
           p.mb-0
             em Ejemplo de diagrama de caso de uso
         figure
@@ -873,7 +858,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/hlK2aN6Osjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 <b>Mapas de procesos y diagramas de flujo</b>  
+    h3.mb-5 <b>Mapas de procesos y diagramas de flujo</b>  
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
@@ -890,7 +875,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 7
+          h5 Figura 6
           mb-0
             em Símbolos del diagrama de flujo (procesos)
         figure
@@ -928,17 +913,15 @@
         .col-10
           img(src='@/assets/curso/temas/tema1/img-93.svg')
 
-    separador 
 
-    #t_1_4.titulo-segundo.color-acento-contenido.pb-2
-      h3 1.4 Salidas y entregables
+    h3.mb-5 Salidas y entregables
 
     p.mb-5 Hasta el momento, se han definido los requerimientos para definir el software, desde la concepción del producto hasta las fases iniciales del desarrollo. El resultado de este trabajo son varios documentos, incluyendo el acuerdo comercial y las plantillas siguiendo las buenas prácticas. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.pb-0
-          h5 Figura 8
+          h5 Figura 7
           p.mb-0
             em Procesos de la ingeniería de requerimientos
         figure
@@ -957,7 +940,7 @@
 
           p(numero="2" titulo="Documentar los requisitos del sistema") ● <b>Diagramas de historia,</b> detallar cómo debe interactuar el <em>software</em> con los usuarios, para que puedan realizar sus tareas dentro del modelo de negocio.<br>● <b>Requisitos funcionales,</b>enunciarlos para que, a partir de ellos, pueda implementarse una solución. Tipos:<br> - Requisitos de información, describen que deberá almacenar y gestionar el <em>software</em> para dar soporte a los procesos de negocio.<br> - Reglas de negocio, incluyen las reglas o restricciones de cumplimiento obligatorio.<br> - Requisitos de conducta, es decir, las capacidades o interacciones con el usuario.<br>● <b>Requisitos no funcionales,</b> las características de calidad del sistema.<br>● <b>Requisitos de integración,</b> establece cuáles servicios deben integrarse al <em>software</em>.<br>● <b>Restricciones técnicas,</b> limitaciones de carácter tecnológico que debe cumplir el sistema.
 
-          p(numero="3" titulo="Analizar los requisitos del sistema") ● <b>Arquitectura del sistema:</b> se refiere a los estándares y modelos que impactan el resto del desarrollo.<br>● <b>Modelo estático:</b>  constituye el modelo del sistema a desarrollar.<br>● <b>Modelo dinámico/funcional:</b> detecta problemas con los casos de uso y el diseño de la capa de lógica.<br>●<b>Interfaz de usuario:</b> Relevante para la validación de los requisitos con clientes y usuarios.<br>●<b> Interfaz de servicios:</b> Importante si el sistema va a tener una interfaz que puede vulnerarse.<br>●<b> Problemas en los requisitos:</b> Identificados mediante el análisis y priorización. 
+          p(numero="3" titulo="Analizar los requisitos del sistema") ● <b>Arquitectura del sistema:</b> se refiere a los estándares y modelos que impactan el resto del desarrollo.<br>● <b>Modelo estático:</b>  constituye el modelo del sistema a desarrollar.<br>● <b>Modelo dinámico/funcional:</b> detecta problemas con los casos de uso y el diseño de la capa de lógica.<br>●<b>Interfaz de usuario:</b> relevante para la validación de los requisitos con clientes y usuarios.<br>●<b> Interfaz de servicios:</b> importante si el sistema va a tener una interfaz que puede vulnerarse.<br>●<b> Problemas en los requisitos:</b> identificados mediante el análisis y priorización. 
 
           p(numero="4" titulo="Verificar la calidad de los requisitos del sistema") ● <b>Problemas en los requisitos: </b>surgen al verificar la calidad de estos.
 
