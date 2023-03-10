@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="528" viewBox="0 0 820 528">
+  <g id="Grupo_222358" data-name="Grupo 222358" transform="translate(-390 -20788.398)">
+    <g id="Grupo_222357" data-name="Grupo 222357">
+      <g id="Grupo_222150" data-name="Grupo 222150" transform="translate(0 -39.601)">
+        <rect id="Rectángulo_295837" data-name="Rectángulo 295837" width="820" height="528" rx="20" transform="translate(390 20828)" fill="#bddcf6" opacity="0.23"/>
+        <g id="Grupo_222149" data-name="Grupo 222149" transform="translate(53 -17)">
+          <rect id="Rectángulo_295834" data-name="Rectángulo 295834" width="125" height="47" rx="23.5" transform="translate(673 20880)" fill="#0f2771"/>
+          <rect id="Rectángulo_295835" data-name="Rectángulo 295835" width="120" height="89" transform="translate(455 20977)" fill="#4dd0e1"/>
+          <rect id="Rectángulo_295836" data-name="Rectángulo 295836" width="130" height="89" transform="translate(670 21116)" fill="#4dd0e1"/>
+          <path id="Trazado_225621" data-name="Trazado 225621" d="M0,13.65,123,0V89H0Z" transform="translate(917 21116)" fill="#4dd0e1"/>
+          <path id="Trazado_225618" data-name="Trazado 225618" d="M-8308.5,9282l-59.85,43.35,59.85,43.3,56.5-43.3Z" transform="translate(9045.35 11700)" fill="#4dd0e1"/>
+          <path id="Trazado_225619" data-name="Trazado 225619" d="M-8181.35,9282h95.65l-24,85.65h-95.95Z" transform="translate(9123 11700)" fill="#4dd0e1"/>
+          <path id="Trazado_225620" data-name="Trazado 225620" d="M-8536,9416h121.65v86s-28-24.35-63-4.35S-8536,9488.3-8536,9488.3Z" transform="translate(8991 11700)" fill="#4dd0e1"/>
+          <g id="Grupo_222148" data-name="Grupo 222148" transform="translate(-53)">
+            <path id="Trazado_225622" data-name="Trazado 225622" d="M-8536,9416h121.65v86s-28-24.35-63-4.35S-8536,9488.3-8536,9488.3Z" transform="translate(9044 11818)" fill="#2eabbb"/>
+            <path id="Trazado_225623" data-name="Trazado 225623" d="M-8536,9416h121.65v86s-28-24.35-63-4.35S-8536,9488.3-8536,9488.3Z" transform="translate(9049 11827)" fill="#44bbca"/>
+            <path id="Trazado_225624" data-name="Trazado 225624" d="M-8536,9416h121.65v86s-28-24.35-63-4.35S-8536,9488.3-8536,9488.3Z" transform="translate(9055 11833.628)" fill="#4dd0e1"/>
+          </g>
+          <path id="Trazado_225625" data-name="Trazado 225625" d="M-8205.65,9534v90h83.3s36.3-5.3,37-47.65S-8129,9533-8129,9533Z" transform="translate(9123 11700)" fill="#4dd0e1"/>
+          <text id="Terminador" transform="translate(694 20909)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Terminador</tspan></text>
+          <text id="Proceso_predefinido" data-name="Proceso
+predefinido" transform="translate(515 21015)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-29.352" y="0">Proceso</tspan><tspan x="-40.043" y="24">predefinido</tspan></text>
+          <text id="Multiples_documentos" data-name="Multiples
+documentos" transform="translate(526 21280)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-32.684" y="0">Multiples</tspan><tspan x="-44.559" y="24">documentos</tspan></text>
+          <text id="Documento" transform="translate(475 21170)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Documento</tspan></text>
+          <text id="Decisión" transform="translate(705 21032)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Decisión</tspan></text>
+          <text id="Proceso" transform="translate(706 21170)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Proceso</tspan></text>
+          <text id="Datos" transform="translate(957 21032)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Datos</tspan></text>
+          <text id="Retraso" transform="translate(944 21285)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Retraso</tspan></text>
+          <text id="Entrada_manual" data-name="Entrada
+manual" transform="translate(980 21158)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-27.34" y="0">Entrada</tspan><tspan x="-26.48" y="24">manual</tspan></text>
+          <text id="NO" transform="translate(637 21013)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">NO</tspan></text>
+          <text id="SI" transform="translate(831 21015)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">SI</tspan></text>
+          <line id="Línea_518" data-name="Línea 518" y2="55" transform="translate(736.5 20927.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Línea_525" data-name="Línea 525" y2="76.5" transform="translate(736.5 21205)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Línea_521" data-name="Línea 521" y2="55" transform="translate(974.5 21067.65)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Línea_523" data-name="Línea 523" y2="50" transform="translate(516 21066.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Línea_524" data-name="Línea 524" y2="37" transform="translate(516 21197.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Línea_519" data-name="Línea 519" x1="100.5" transform="translate(576.5 21025.324)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Línea_520" data-name="Línea 520" x1="138.5" transform="translate(792 21025.324)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Línea_522" data-name="Línea 522" x1="117" transform="translate(800.5 21160.316)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Trazado_226093" data-name="Trazado 226093" d="M175.167,0H0" transform="translate(736.5 21281.904)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Polígono_68" data-name="Polígono 68" d="M5,0l5,9H0Z" transform="translate(521 21239) rotate(180)" fill="#636363"/>
+          <path id="Polígono_71" data-name="Polígono 71" d="M5,0l5,9H0Z" transform="translate(521 21121) rotate(180)" fill="#636363"/>
+          <path id="Polígono_75" data-name="Polígono 75" d="M5,0l5,9H0Z" transform="translate(979 21127) rotate(180)" fill="#636363"/>
+          <path id="Polígono_72" data-name="Polígono 72" d="M5,0l5,9H0Z" transform="translate(742 20986) rotate(180)" fill="#636363"/>
+          <path id="Polígono_69" data-name="Polígono 69" d="M5,0l5,9H0Z" transform="translate(571 21030.293) rotate(-90)" fill="#636363"/>
+          <path id="Polígono_73" data-name="Polígono 73" d="M5,0l5,9H0Z" transform="translate(795.5 21165.314) rotate(-90)" fill="#636363"/>
+          <path id="Polígono_70" data-name="Polígono 70" d="M5,0l5,9H0Z" transform="translate(935 21020.293) rotate(90)" fill="#636363"/>
+          <path id="Polígono_74" data-name="Polígono 74" d="M5,0l5,9H0Z" transform="translate(917.5 21276.5) rotate(90)" fill="#636363"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

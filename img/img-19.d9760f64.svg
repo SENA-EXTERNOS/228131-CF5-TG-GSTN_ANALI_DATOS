@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="393.563" viewBox="0 0 820 393.563">
+  <g id="Grupo_222363" data-name="Grupo 222363" transform="translate(-390 -8748.182)">
+    <g id="Grupo_222362" data-name="Grupo 222362">
+      <g id="Grupo_208000" data-name="Grupo 208000" transform="translate(0 -781.723)">
+        <g id="Grupo_130075" data-name="Grupo 130075" transform="translate(475 9529.904)">
+          <rect id="Rectángulo_41096" data-name="Rectángulo 41096" width="141" height="393.562" transform="translate(594)" fill="#4dd0e1"/>
+          <line id="Línea_250" data-name="Línea 250" x1="594" transform="translate(0 1)" fill="none" stroke="#4dd0e1" stroke-width="2" opacity="0.2"/>
+          <line id="Línea_251" data-name="Línea 251" x1="594" transform="translate(0 392.563)" fill="none" stroke="#4dd0e1" stroke-width="2" opacity="0.2"/>
+        </g>
+        <path id="Trazado_226380" data-name="Trazado 226380" d="M16,0H795a16,16,0,0,1,16,16V360.562a16,16,0,0,1-16,16H16a16,16,0,0,1-16-16V16A16,16,0,0,1,16,0Z" transform="translate(390 9538.904)" fill="#f2f6f9"/>
+        <text id="Clasificación_de_requerimientos_con_FURPS_" data-name="Clasificación de requerimientos con FURPS +" transform="translate(596 9590.904)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Clasificación de requerimientos con FURPS +</tspan></text>
+        <text id="FURPS" transform="translate(493 9622.904)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-24.832" y="0">FURPS</tspan></text>
+        <text id="REQUERIMIENTOS_NO-FUNCIONALES" data-name="REQUERIMIENTOS
+NO-FUNCIONALES" transform="translate(1088 9813.731)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-56.863" y="0">Requerimientos</tspan><tspan x="-54.074" y="24">no-funcionales</tspan></text>
+        <text id="REQUERIMIENTOS_FUNCIONALES" data-name="REQUERIMIENTOS
+FUNCIONALES" transform="translate(1088 9672.731)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-56.863" y="0">Requerimientos</tspan><tspan x="-41.969" y="24">funcionales</tspan></text>
+        <text id="Functionality_-_FUNCIONALIDAD_Usability_-_UTILIDAD_Reliability_-_CONFIABILIDAD_Performance_-_RENDIMIENTO_Supportability_-_SERVICIO_SOPORTE_Design_constraints_-_RESTRICCIONES_DE_dISEÑO_Implementation_constraints_-_RESTRICCIONES_DE_IMPLEMENTACIÓN_Interface" data-name="Functionality - FUNCIONALIDAD
+Usability - UTILIDAD
+Reliability - CONFIABILIDAD
+Performance - RENDIMIENTO
+Supportability - SERVICIO/SOPORTE
++
+Design constraints - RESTRICCIONES DE dISEÑO
+Implementation constraints - RESTRICCIONES DE IMPLEMENTACIÓN
+Interface" transform="translate(482 9653.904)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Functionality - Funcionalidad</tspan><tspan x="0" y="24">Usability - Utilidad</tspan><tspan x="0" y="48">Reliability - Confiabilidad</tspan><tspan x="0" y="72">Performance - Rendimiento</tspan><tspan x="0" y="96">Supportability - Servicio/Soporte</tspan><tspan x="0" y="120">+</tspan><tspan x="0" y="144">Design constraints - Restricciones de diseño</tspan><tspan x="0" y="168">Implementation constraints - Restricciones de implementación</tspan><tspan x="0" y="192">Interface constraints - Restricciones de interface</tspan><tspan x="0" y="216">Physical constraints - Restricciones físicas</tspan></text>
+        <path id="Polígono_24" data-name="Polígono 24" d="M6,0l6,9H0Z" transform="matrix(0, 1, -1, 0, 465.227, 9611.404)" fill="#4dd0e1"/>
+        <path id="Polígono_41" data-name="Polígono 41" d="M6,0l6,9H0Z" transform="matrix(0, 1, -1, 0, 465.227, 9762.404)" fill="#4dd0e1"/>
+        <g id="Grupo_944" data-name="Grupo 944" transform="translate(468 9643.179)">
+          <g id="Grupo_423" data-name="Grupo 423">
+            <path id="Trazado_635" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <g id="Grupo_944-2" data-name="Grupo 944" transform="translate(468 9690.179)">
+          <g id="Grupo_423-2" data-name="Grupo 423">
+            <path id="Trazado_635-2" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <g id="Grupo_944-3" data-name="Grupo 944" transform="translate(468 9811.179)">
+          <g id="Grupo_423-3" data-name="Grupo 423">
+            <path id="Trazado_635-3" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <g id="Grupo_944-4" data-name="Grupo 944" transform="translate(468 9667.179)">
+          <g id="Grupo_423-4" data-name="Grupo 423">
+            <path id="Trazado_635-4" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <g id="Grupo_944-5" data-name="Grupo 944" transform="translate(468 9788.179)">
+          <g id="Grupo_423-5" data-name="Grupo 423">
+            <path id="Trazado_635-5" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <g id="Grupo_944-6" data-name="Grupo 944" transform="translate(468 9714.179)">
+          <g id="Grupo_423-6" data-name="Grupo 423">
+            <path id="Trazado_635-6" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <g id="Grupo_944-7" data-name="Grupo 944" transform="translate(468 9835.179)">
+          <g id="Grupo_423-7" data-name="Grupo 423">
+            <path id="Trazado_635-7" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <g id="Grupo_944-8" data-name="Grupo 944" transform="translate(468 9738.179)">
+          <g id="Grupo_423-8" data-name="Grupo 423">
+            <path id="Trazado_635-8" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <g id="Grupo_944-9" data-name="Grupo 944" transform="translate(468 9859.179)">
+          <g id="Grupo_423-9" data-name="Grupo 423">
+            <path id="Trazado_635-9" data-name="Trazado 635" d="M6.029,4.863l-4.7-4.7a.576.576,0,0,0-.813,0l0,0L.172.514a.576.576,0,0,0,0,.813l0,0L4.114,5.272.168,9.219a.576.576,0,0,0,0,.813l0,0,.346.346a.576.576,0,0,0,.813,0l0,0,4.7-4.7a.583.583,0,0,0,0-.819Z" transform="translate(0.002 0.002)" fill="#00223d"/>
+          </g>
+        </g>
+        <path id="Trazado_200654" data-name="Trazado 200654" d="M-7562-7098s-53.912.3-567,0" transform="translate(8562 16757.73)" fill="none" stroke="#feca2e" stroke-width="2" stroke-dasharray="2"/>
+        <path id="Trazado_211945" data-name="Trazado 211945" d="M-4692-2493s13.3,0,13.3,20.207v74.023l9.3,15.391-9.3,11.831v76.013s.7,15.5-13.3,12.669" transform="translate(5680.7 12156.426)" fill="none" stroke="#feca2e" stroke-width="2"/>
+        <path id="Trazado_211946" data-name="Trazado 211946" d="M-4692-2493s13.3,0,13.3,2.734v10.015l9.3,2.083-9.3,1.6v10.284s.7,2.1-13.3,1.714" transform="translate(5680.7 12124.253)" fill="none" stroke="#feca2e" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

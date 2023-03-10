@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="247" viewBox="0 0 820 247">
+  <g id="Grupo_222370" data-name="Grupo 222370" transform="translate(-390 -1732.231)">
+    <g id="Grupo_222369" data-name="Grupo 222369">
+      <g id="Grupo_222279" data-name="Grupo 222279" transform="translate(0 -15.769)">
+        <rect id="Rectángulo_295904" data-name="Rectángulo 295904" width="820" height="247" transform="translate(390 1748)" fill="none"/>
+        <g id="Grupo_210491" data-name="Grupo 210491" transform="translate(58 2)">
+          <rect id="Rectángulo_295386" data-name="Rectángulo 295386" width="132" height="82" rx="11" transform="translate(390 1761)" fill="#0f2771"/>
+          <rect id="Rectángulo_295387" data-name="Rectángulo 295387" width="132" height="82" rx="11" transform="translate(580 1761)" fill="#4dd0e1"/>
+          <rect id="Rectángulo_295388" data-name="Rectángulo 295388" width="132" height="82" rx="11" transform="translate(773 1761)" fill="#a4eff9"/>
+          <rect id="Rectángulo_295389" data-name="Rectángulo 295389" width="132" height="82" rx="11" transform="translate(963 1761)" fill="#bddcf6"/>
+          <rect id="Rectángulo_295390" data-name="Rectángulo 295390" width="132" height="82" rx="11" transform="translate(963 1896)" fill="#81bff2"/>
+          <rect id="Rectángulo_295391" data-name="Rectángulo 295391" width="132" height="82" rx="11" transform="translate(773 1896)" fill="#fae39b"/>
+          <rect id="Rectángulo_295392" data-name="Rectángulo 295392" width="132" height="82" rx="11" transform="translate(580 1896)" fill="#feca2e"/>
+          <g id="Grupo_210485" data-name="Grupo 210485" transform="translate(-695 18)">
+            <rect id="Rectángulo_295393" data-name="Rectángulo 295393" width="21" height="9" transform="translate(1228 1780)" fill="#afafaf"/>
+            <path id="Polígono_42" data-name="Polígono 42" d="M10.5,0,21,19H0Z" transform="translate(1268 1774) rotate(90)" fill="#afafaf"/>
+          </g>
+          <g id="Grupo_210486" data-name="Grupo 210486" transform="translate(-505 18)">
+            <rect id="Rectángulo_295393-2" data-name="Rectángulo 295393" width="21" height="9" transform="translate(1228 1780)" fill="#afafaf"/>
+            <path id="Polígono_42-2" data-name="Polígono 42" d="M10.5,0,21,19H0Z" transform="translate(1268 1774) rotate(90)" fill="#afafaf"/>
+          </g>
+          <g id="Grupo_210489" data-name="Grupo 210489" transform="translate(915 1924)">
+            <rect id="Rectángulo_295393-3" data-name="Rectángulo 295393" width="21" height="9" transform="translate(19 6)" fill="#afafaf"/>
+            <path id="Polígono_42-3" data-name="Polígono 42" d="M10.5,0,21,19H0Z" transform="translate(0 21) rotate(-90)" fill="#afafaf"/>
+          </g>
+          <g id="Grupo_210490" data-name="Grupo 210490" transform="translate(1020 1890.5) rotate(-90)">
+            <rect id="Rectángulo_295393-4" data-name="Rectángulo 295393" width="21" height="9" transform="translate(19 6)" fill="#afafaf"/>
+            <path id="Polígono_42-4" data-name="Polígono 42" d="M10.5,0,21,19H0Z" transform="translate(0 21) rotate(-90)" fill="#afafaf"/>
+          </g>
+          <g id="Grupo_210487" data-name="Grupo 210487" transform="translate(-313 18)">
+            <rect id="Rectángulo_295393-5" data-name="Rectángulo 295393" width="21" height="9" transform="translate(1228 1780)" fill="#afafaf"/>
+            <path id="Polígono_42-5" data-name="Polígono 42" d="M10.5,0,21,19H0Z" transform="translate(1268 1774) rotate(90)" fill="#afafaf"/>
+          </g>
+          <g id="Grupo_210488" data-name="Grupo 210488" transform="translate(723 1924)">
+            <rect id="Rectángulo_295393-6" data-name="Rectángulo 295393" width="21" height="9" transform="translate(19 6)" fill="#afafaf"/>
+            <path id="Polígono_42-6" data-name="Polígono 42" d="M10.5,0,21,19H0Z" transform="translate(0 21) rotate(-90)" fill="#afafaf"/>
+          </g>
+          <text id="Concepción" transform="translate(456 1808)" fill="#f3f9ff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-42.535" y="0">Concepción</tspan></text>
+          <text id="Indagación" transform="translate(646 1808)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-39.762" y="0">Indagación</tspan></text>
+          <text id="Elaboración" transform="translate(840 1808)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-42.324" y="0">Elaboración</tspan></text>
+          <text id="Negociación" transform="translate(1030 1808)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-44.941" y="0">Negociación</tspan></text>
+          <text id="Especificación" transform="translate(1030 1943)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-52.359" y="0">Especificación</tspan></text>
+          <text id="Validación" transform="translate(842 1943)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-37.676" y="0">Validación</tspan></text>
+          <text id="Administración" transform="translate(646 1943)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-54.742" y="0">Administración</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
