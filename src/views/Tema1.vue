@@ -444,7 +444,7 @@
             em Clasificación de los requerimientos
             
         figure
-          img.mb-2(src='@/assets/curso/temas/tema1/img-34-.svg')
+          img.mb-2(src='@/assets/curso/temas/tema1/img-34.svg')
           figcaption.color-caption-1 Nota. Adaptada de Mohapatra y Rath (2020).
 
     h3.mb-5 Herramientas y técnicas
@@ -798,7 +798,7 @@
             .row.justify-content-center.mb-4
               .col-8
                 img(src="@/assets/curso/temas/tema1/img-77.svg").img-100    
-            h5.text-center.mb-4 Entorno del sistema y nombre del diagrama.
+            h5.text-center.mb-4 En torno del sistema y nombre del diagrama.
 
           .tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-4
@@ -938,7 +938,7 @@
 
           p(numero="4" titulo="Verificar la calidad de los requisitos del sistema") ● <b>Problemas en los requisitos: </b>surgen al verificar la calidad de estos.
 
-          p(numero="5" titulo="Validar los requisitos del sistema") <b>Actas de reuniones,</b> recogen los resultados obtenidos en las sesiones de validación. Si hay aceptación de los interesados, se registra con actas y contratos.<br><br><b>Problemas en los requisitos.</b> identificados y validados entre los interesados.
+          p(numero="5" titulo="Validar los requisitos del sistema") <b>Actas de reuniones,</b> recogen los resultados obtenidos en las sesiones de validación. Si hay aceptación de los interesados, se registra con actas y contratos.<br><br><b>Problemas en los requisitos,</b> identificados y validados entre los interesados.
 
           p(numero="6" titulo="Registrar problemas en los requisitos") ● <b>Problemas en los requisitos:</b> se anotan para aclarar su significado, o suprimirlos si están duplicados.
 

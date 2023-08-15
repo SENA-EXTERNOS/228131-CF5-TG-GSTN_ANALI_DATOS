@@ -367,13 +367,13 @@
               img(src='@/assets/curso/temas/tema2/img-30.png')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p.ms-3Hay varios métodos para crear prototipos de sistemas como guiones gráficos <em>(storyboards)</em> y ejecutables minimalistas. La ventaja de usar prototipos es la expectativa y ánimo que generan en los usuarios, al ser parte activa en el desarrollo de los requisitos.	 
+            p.ms-3Hay Varios métodos para crear prototipos de sistemas como guiones gráficos <em>(storyboards)</em> y ejecutables minimalistas. La ventaja de usar prototipos es la expectativa y ánimo que generan en los usuarios, al ser parte activa en el desarrollo de los requisitos.	 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img-31.png')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p.ms-3Una desventaja es que los usuarios se apegan a ellos y, por lo tanto, se resisten a soluciones alternativas. La validación de prototipos en etapas tempranas del ciclo de vida del desarrollo del <em>software</em> minimiza los riesgos de modificación luego de la etapa de construcción.
+            p.ms-3Una Desventaja es que los usuarios se apegan a ellos y, por lo tanto, se resisten a soluciones alternativas. La validación de prototipos en etapas tempranas del ciclo de vida del desarrollo del <em>software</em> minimiza los riesgos de modificación luego de la etapa de construcción.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img-32.png')

@@ -213,6 +213,7 @@ export default {
     },
     {
       referencia: `Bennaceur, G., Thein, T. Yijun, Y. & Bashar, N. (2019).<i> Requirements Engineering.</i> En Cha, S., Taylor, R. N., y Kang, K. (Eds.) <i>Handbook of Software Engineering. </i> Springer Nature Switzerland`,
+      link: `https://www.researchgate.net/publication/324716673_Requirements_Engineering`,
     },
     {
       referencia: `CVUDES. (2015). <i>Modelo FURPS.</i>`,
@@ -236,6 +237,7 @@ export default {
     },
     {
       referencia: `Gómez, S. y Moradela, E. (2020). <i>Aproximación a la Ingeniería del Software. Universitaria Ramón Areces</i>.`,
+      link: `https://www.studocu.com/es/document/uned/introduccion-a-la-ingenieria-de-software/libro-aproximacion-a-la-ingenieria-del-software/9805703`,
     },
     {
       referencia: `Hansen, B. (2021). <i>Reglas de la lluvia de ideas: una guía del gerente para producir grandes ideas.</i>`,
@@ -256,7 +258,7 @@ export default {
     },
     {
       referencia: `Pressman, R. y Maxim, B. (2021). <i>Ingeniería de software - Un enfoque práctico (9a Ed.).</i> McGraw-Hill Interamericana.`,
-      link: `https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=16414`,
+      link: `https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf`,
     },
     {
       referencia: `REHKOPF, M. (2021). <i>User stories with examples and a template.</i>`,
@@ -272,6 +274,7 @@ export default {
     },
     {
       referencia: `Sommerville, L. (2016). <i>Software Engineering</i> (10th edition). Pearson.`,
+      link: `http://powerunit-ju.com/wp-content/uploads/2021/06/Sommerville-Software-Engineering-10ed.pdf`,
     },
     {
       referencia: `Team Asana. (2022). <i>Técnicas para la recopilación de requisitos.</i>`,
@@ -279,6 +282,7 @@ export default {
     },
     {
       referencia: `Tsui, F., Karam, O. & Bernal, B. (2018). <i>Essentials of Software Engineering</i> (4th ed.). Jones & Bartlett Learning.`,
+      link: `https://samples.jbpub.com/9781284106008/TsuiTOCwithPreface.pdf`,
     },
     {
       referencia: `Universitat Politècnica de València-UPV. (2021).<i> Casos de uso y diagramas de casos de uso</i> [video]. YouTube.`,
