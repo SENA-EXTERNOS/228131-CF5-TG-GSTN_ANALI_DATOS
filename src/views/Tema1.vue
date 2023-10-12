@@ -287,8 +287,7 @@
             p.text-center.px-3 Los requerimientos no son estáticos pues cambian con el tiempo, el mercado, una nueva regulación o aparición de un producto de la competencia.             
 
     p La validación de requerimientos es un proceso continuo durante el desarrollo del software, para asegurar que el resultado represente las necesidades y expectativas de los clientes. Esta actividad contribuye a mejorar la calidad de los requerimientos, a reducir costos, tiempos y riesgos en el desarrollo de software. (Santana, et al., 2020)
-    p El primer requisito es vago para los desarrolladores que lo prueben o evalúen; ¿qué significa exactamente "fácil de utilizar"? Para validarlo, debe ser cuantificado o calificado de alguna manera.
-    p El segundo requisito tiene un elemento cuantitativo (menos que 0.0001), pero en las pruebas de intrusión son difíciles y consumen mucho tiempo; además, ¿está justificado este nivel de seguridad?, ¿pueden otros requisitos asociados a seguridad (por ejemplo, protección de contraseña, protocolo de enlace especializado), reemplazar el requisito cuantitativo anotado?
+
     p.mb-5 Se hace mediante una revisión técnica en la que participan el equipo de trabajo y los demás interesados o sus representantes, que analizan la especificación en busca de errores de contenido o de interpretación, de aspectos en los que tal vez se requiera hacer aclaraciones, falta de información, inconsistencias y requerimientos conflictivos o inalcanzables.
 
 
@@ -425,7 +424,7 @@
               img(src="@/assets/curso/temas/tema1/img-31.svg")
           .crd_hover_txt--body
             h5.mb-3  Trazabilidad
-            p.mb-0 Ayuda a identificar el impacto de los cambios en otros partes del <em>software</em> y a evaluar cómo se debe propagar este cambio.
+            p.mb-0 Ayuda a identificar el impacto de los cambios en otras partes del <em>software</em> y a evaluar cómo se debe propagar este cambio.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2

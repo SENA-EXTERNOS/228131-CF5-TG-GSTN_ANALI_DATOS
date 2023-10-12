@@ -246,7 +246,7 @@
           p.mb-0
             em Esquema del modelo FURPS+
         figure
-          img.mb-2(src='@/assets/curso/temas/tema2/img-19.svg')
+          img.mb-2(src='@/assets/curso/temas/tema2/img-19-.svg')
           figcaption.color-caption-1 Nota. Adaptada de FURPS+ (2008).
 
     .row.justify-content-center.align-items-center
@@ -269,7 +269,7 @@
           p.mb-0
             em Restricciones del modelo FURPS+
         figure
-          img.mb-2(src='@/assets/curso/temas/tema2/img-22.svg')
+          img.mb-2(src='@/assets/curso/temas/tema2/img-22-.svg')
           figcaption.color-caption-1 Nota. Tomado de CVUDES (2015).
 
     .row.justify-content-center.align-items-center.mb-5
@@ -459,10 +459,7 @@
             <i class="fas fa-angle-right" aria-hidden="true"></i>
             p.mb-0 Permite identificar funcionalidades no contempladas, para su inclusión en el análisis.
           li 
-          li.mb-0 
-            <i class="fas fa-angle-right" aria-hidden="true"></i>
-            p.mb-0 Reduce el costo de iteración e incrementa la probabilidad de éxito del proyecto.
-          li 
+
           li
             <i class="fas fa-angle-right" aria-hidden="true"></i>
             p Provee un mecanismo de consenso de las interfaces de la aplicación. 
@@ -528,7 +525,7 @@
           .tarjeta.color-modal.p-3(x="49.5%" y="33.7%" numero="")
             p Permitir, revisar y aprobar firmas electrónicas.<br>Recoger información a través de comentarios y mensajes.<br>Notificar la actividad de los usuarios.
           .tarjeta.color-modal.p-3(x="70%" y="60%" numero="")
-            p Definir los requerimientos.<br>Modelar las relaciones entre requisitos.<br>Reutilizar requerimientos.<br>RImportar/exportar datos para documentación.
+            p Definir los requerimientos.<br>Modelar las relaciones entre requisitos.<br>Reutilizar requerimientos.<br>Importar/exportar datos para documentación.
           .tarjeta.color-modal.p-3(x="90%" y="37.5%" numero="")
             p IDE de desarrollo.<br>Procesador de texto.<br>Hoja de cálculo.
 
