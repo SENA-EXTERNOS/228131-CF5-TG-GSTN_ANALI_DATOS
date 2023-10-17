@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="1188" viewBox="0 0 820 1188">
+  <g id="Grupo_222346" data-name="Grupo 222346" transform="translate(-390 -16312)">
+    <g id="Grupo_222345" data-name="Grupo 222345">
+      <g id="Grupo_222344" data-name="Grupo 222344">
+        <g id="Grupo_222343" data-name="Grupo 222343">
+          <g id="Grupo_222342" data-name="Grupo 222342">
+            <g id="Grupo_222341" data-name="Grupo 222341">
+              <g id="Grupo_222340" data-name="Grupo 222340">
+                <rect id="Rectángulo_295808" data-name="Rectángulo 295808" width="820" height="45" transform="translate(390 16544)" fill="#e8e8e8"/>
+                <rect id="Rectángulo_295813" data-name="Rectángulo 295813" width="820" height="45" transform="translate(390 16791)" fill="#e8e8e8"/>
+                <rect id="Rectángulo_295809" data-name="Rectángulo 295809" width="820" height="45" transform="translate(390 16589)" fill="#fff"/>
+                <path id="Trazado_225613" data-name="Trazado 225613" d="M0,0H820V45H0Z" transform="translate(390 16836)" fill="#bddcf6" opacity="0.12"/>
+                <rect id="Rectángulo_295810" data-name="Rectángulo 295810" width="820" height="45" transform="translate(390 16631)" fill="#f6f6f6"/>
+                <rect id="Rectángulo_295811" data-name="Rectángulo 295811" width="820" height="45" transform="translate(390 16676)" fill="#fff"/>
+                <rect id="Rectángulo_295812" data-name="Rectángulo 295812" width="820" height="45" transform="translate(390 16720)" fill="#f6f6f6"/>
+                <text id="Atributos" transform="translate(428 16572)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Atributos</tspan></text>
+                <text id="Comentarios" transform="translate(428 16819)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Comentarios</tspan></text>
+                <text id="Nombre" transform="translate(447 16617)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Nombre</tspan></text>
+                <text id="Descripción" transform="translate(725 16617)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Descripción</tspan></text>
+                <text id="Tipo" transform="translate(1073 16617)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tipo</tspan></text>
+                <line id="Línea_489" data-name="Línea 489" y2="45" transform="translate(981 16589)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_491" data-name="Línea 491" y2="45" transform="translate(981 16631)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_493" data-name="Línea 493" y2="45" transform="translate(981 16676)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_495" data-name="Línea 495" y2="45" transform="translate(981 16720)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_490" data-name="Línea 490" y2="45" transform="translate(557 16589)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_492" data-name="Línea 492" y2="45" transform="translate(557 16631)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_494" data-name="Línea 494" y2="45" transform="translate(557 16676)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_496" data-name="Línea 496" y2="45" transform="translate(557 16720)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <rect id="Rectángulo_295749" data-name="Rectángulo 295749" width="820" height="35" transform="translate(390 16312)" fill="#4dd0e1"/>
+                <rect id="Rectángulo_295805" data-name="Rectángulo 295805" width="820" height="35" transform="translate(390 16384)" fill="#4dd0e1"/>
+                <rect id="Rectángulo_295807" data-name="Rectángulo 295807" width="820" height="35" transform="translate(390 16456)" fill="#4dd0e1"/>
+                <rect id="Rectángulo_295752" data-name="Rectángulo 295752" width="820" height="50" transform="translate(390 16334)" fill="#4dd0e1" opacity="0.62"/>
+                <rect id="Rectángulo_295804" data-name="Rectángulo 295804" width="820" height="50" transform="translate(390 16406)" fill="#4dd0e1" opacity="0.62"/>
+                <rect id="Rectángulo_295806" data-name="Rectángulo 295806" width="820" height="50" transform="translate(390 16478)" fill="#4dd0e1" opacity="0.62"/>
+                <text id="Descripción-2" data-name="Descripción" transform="translate(413 16370)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Descripción</tspan></text>
+                <text id="Relaciones" transform="translate(413 16442)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Relaciones</tspan></text>
+                <text id="Autor" transform="translate(413 16514)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Autor</tspan></text>
+                <text id="Fecha" transform="translate(915 16514)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Fecha</tspan></text>
+                <text id="Versión" transform="translate(1071 16514)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Versión</tspan></text>
+                <text id="Actor" transform="translate(413 16338)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Actor</tspan></text>
+                <text id="Características" transform="translate(413 16410)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Características</tspan></text>
+                <text id="Referencias" transform="translate(413 16482)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Referencias</tspan></text>
+                <line id="Línea_483" data-name="Línea 483" y2="216.5" transform="translate(543.5 16312)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_484" data-name="Línea 484" y2="37.5" transform="translate(895 16491)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_485" data-name="Línea 485" y2="37.5" transform="translate(981 16491)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_486" data-name="Línea 486" y2="37.5" transform="translate(1050 16491)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_488" data-name="Línea 488" y2="33.75" transform="translate(1050 16313.75)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_487" data-name="Línea 487" y2="37.5" transform="translate(1146 16491)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <rect id="Rectángulo_295750" data-name="Rectángulo 295750" width="820" height="34" transform="translate(390 16900)" fill="#4dd0e1"/>
+                <rect id="Rectángulo_295814" data-name="Rectángulo 295814" width="820" height="59" transform="translate(390 16934)" fill="#fff"/>
+                <rect id="Rectángulo_295817" data-name="Rectángulo 295817" width="820" height="59" transform="translate(390 17050)" fill="#fff"/>
+                <rect id="Rectángulo_295819" data-name="Rectángulo 295819" width="820" height="59" transform="translate(390 17167)" fill="#fff"/>
+                <rect id="Rectángulo_295815" data-name="Rectángulo 295815" width="820" height="59" transform="translate(390 16991)" fill="#f6f6f6"/>
+                <rect id="Rectángulo_295816" data-name="Rectángulo 295816" width="820" height="59" transform="translate(390 17109)" fill="#f6f6f6"/>
+                <rect id="Rectángulo_295818" data-name="Rectángulo 295818" width="820" height="59" transform="translate(390 17226)" fill="#f6f6f6"/>
+                <text id="Caso_de_uso" data-name="Caso de uso" transform="translate(407 16923)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Caso de uso</tspan></text>
+                <text id="Actores" transform="translate(407 16969)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Actores</tspan></text>
+                <text id="Referencias-2" data-name="Referencias" transform="translate(407 17085)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Referencias</tspan></text>
+                <text id="Postcondición" transform="translate(407 17202)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Postcondición</tspan></text>
+                <text id="Tipo-2" data-name="Tipo" transform="translate(407 17026)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tipo</tspan></text>
+                <text id="Precondición" transform="translate(407 17144)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Precondición</tspan></text>
+                <text id="Autor-2" data-name="Autor" transform="translate(407 17261)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Autor</tspan></text>
+                <text id="_Nombre_del_CU_" data-name="&lt;&lt;Nombre del CU&gt;&gt; " transform="translate(540 16923)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">&lt;&lt;Nombre del CU&gt;&gt; </tspan></text>
+                <text id="_Identificador_" data-name="&lt;&lt;Identificador&gt;&gt; " transform="translate(1060 16908)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">&lt;&lt;Identificador&gt;&gt; </tspan></text>
+                <text id="Fecha-2" data-name="Fecha" transform="translate(915 17259.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Fecha</tspan></text>
+                <text id="Versión-2" data-name="Versión" transform="translate(1071 17259.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Versión</tspan></text>
+                <line id="Línea_506" data-name="Línea 506" y2="58.5" transform="translate(895 17226.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_507" data-name="Línea 507" y2="58.5" transform="translate(981 17226.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_508" data-name="Línea 508" y2="58.5" transform="translate(1050 17226.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_509" data-name="Línea 509" y2="58.5" transform="translate(1146 17226.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_469" data-name="Línea 469" y2="34" transform="translate(1037 16900.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_503" data-name="Línea 503" y2="60" transform="translate(851 17049)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_497" data-name="Línea 497" y2="34" transform="translate(525 16900.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_499" data-name="Línea 499" y2="59" transform="translate(525 16934.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_502" data-name="Línea 502" y2="59" transform="translate(525 17050.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_505" data-name="Línea 505" y2="59" transform="translate(525 17167.5)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_500" data-name="Línea 500" y2="59" transform="translate(525 16991)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_501" data-name="Línea 501" y2="147" transform="translate(525 17025)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <line id="Línea_504" data-name="Línea 504" y2="59" transform="translate(525 17224)" fill="none" stroke="#afafaf" stroke-width="2"/>
+                <text id="_Listado_de_los_actores_participantes_en_el_CU_Podemos_indicar_quien_es_el_que_inicia_el_CU_usando_I_" data-name="&lt;&lt;Listado de los actores participantes en el CU&gt;&gt; &lt;&lt;Podemos indicar quien es el que inicia el CU usando (I)&gt;&gt;" transform="translate(537 16942)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">&lt;&lt;Listado de los actores participantes en el CU&gt;&gt; &lt;&lt;Podemos indicar quien es el que inicia </tspan><tspan x="0" y="41">el CU usando (I)&gt;&gt;</tspan></text>
+                <text id="_Indicamos_que_requisitos_se_pueden_incluir_dentro_de_este_CU_" data-name="&lt;&lt;Indicamos que requisitos se pueden incluir dentro de este CU&gt;&gt; " transform="translate(537 17058)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">&lt;&lt;Indicamos que requisitos se pueden </tspan><tspan x="0" y="41">incluir dentro de este CU&gt;&gt; </tspan></text>
+                <text id="_Esta_línea_se_podría_repetir_para_mantener_una_historia_de_cambios_del_CU_" data-name="&lt;&lt;Esta línea se podría repetir para mantener una historia de cambios del CU&gt;&gt; " transform="translate(537 17234)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">&lt;&lt;Esta línea se podría repetir para mantener </tspan><tspan x="0" y="41">una historia de cambios del CU&gt;&gt; </tspan></text>
+                <text id="_CU_que_tienen_relación_con_este_" data-name="&lt;&lt;CU que tienen relación con este&gt;&gt; " transform="translate(875 17070)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">&lt;&lt;CU que tienen relación con este&gt;&gt; </tspan></text>
+                <text id="_Tipo_del_caso_de_uso_Primario_secundario_u_opcional_I_Esencial_o_real_" data-name="&lt;&lt;Tipo del caso de uso&gt;&gt; &lt;&lt;Primario, secundario u opcional I &lt;&lt;Esencial o real&gt;&gt; " transform="translate(537 17011)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">&lt;&lt;Tipo del caso de uso&gt;&gt; &lt;&lt;Primario, secundario u opcional I &lt;&lt;Esencial o real&gt;&gt; </tspan></text>
+                <text id="_Condiciones_sobre_el_estado_del_sistema_que_tienen_que_ser_ciertas_para_que_se_pueda_realizar_el_CU_" data-name="&lt;&lt;Condiciones sobre el estado del sistema que tienen que ser ciertas para que se pueda realizar el CU&gt;&gt; " transform="translate(537 17117)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">&lt;&lt;Condiciones sobre el estado del sistema que tienen que ser ciertas para que se pueda </tspan><tspan x="0" y="41">realizar el CU&gt;&gt; </tspan></text>
+                <text id="_Efectos_que_de_forma_inmediata_tiene_la_realización_del_CU_sobre_el_estado_del_sistema_" data-name="&lt;&lt;Efectos que de forma inmediata tiene la realización del CU sobre el estado del sistema&gt;&gt; " transform="translate(537 17190)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">&lt;&lt;Efectos que de forma inmediata tiene la realización del CU sobre el estado del sistema&gt;&gt; </tspan></text>
+                <rect id="Rectángulo_295820" data-name="Rectángulo 295820" width="820" height="45" transform="translate(390 17299)" fill="#e8e8e8"/>
+                <path id="Trazado_225614" data-name="Trazado 225614" d="M0,0H820V45H0Z" transform="translate(390 17344)" fill="#bddcf6" opacity="0.12"/>
+                <text id="Propósito" transform="translate(428 17327)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Propósito</tspan></text>
+                <text id="_Descripción_general_del_CU_suficiente_con_una_línea_" data-name="&lt;&lt;Descripción general del CU (suficiente con una línea)&gt;&gt; " transform="translate(428 17372)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">&lt;&lt;Descripción general del CU (suficiente con una línea)&gt;&gt; </tspan></text>
+                <rect id="Rectángulo_295821" data-name="Rectángulo 295821" width="820" height="45" transform="translate(390 17410)" fill="#e8e8e8"/>
+                <path id="Trazado_225615" data-name="Trazado 225615" d="M0,0H820V45H0Z" transform="translate(390 17455)" fill="#bddcf6" opacity="0.12"/>
+                <text id="Resumen" transform="translate(428 17438)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Resumen</tspan></text>
+                <text id="_Descripción_de_alto_nivel_del_flujo_normal_básico_del_caso_de_uso_suficiente_con_un_pequeño_párrafo_" data-name="&lt;&lt;Descripción de alto nivel del flujo normal (básico) del caso de uso (suficiente con un pequeño párrafo)&gt;&gt; " transform="translate(428 17483)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">&lt;&lt;Descripción de alto nivel del flujo normal (básico) del caso de uso (suficiente con un pequeño párrafo)&gt;&gt; </tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
